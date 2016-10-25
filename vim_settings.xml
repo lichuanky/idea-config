@@ -15,7 +15,6 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/adapter/item/HeaderSliderAdapterItem.java" timestamp="1476872563916" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/activity/GroupSelectListActivity.java" timestamp="1474280710365">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -67,6 +66,7 @@
         <mark key="^" line="32" column="80" />
         <mark key="." line="32" column="80" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/activity/WebViewActivity.java" timestamp="1477370267628" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/layout/fragment_message.xml" timestamp="1473402883429">
         <mark key="[" line="16" column="35" />
         <mark key="]" line="16" column="46" />
@@ -180,6 +180,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1477370037054">
+        <mark key="[" line="137" column="42" />
+        <mark key="]" line="137" column="42" />
+        <mark key="." line="137" column="42" />
+        <mark key="^" line="138" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/net/ApiHelper.java" timestamp="1474890409591">
         <mark key="'" line="50" column="13" />
@@ -421,9 +427,6 @@
         <mark key="]" line="141" column="33" />
         <mark key="^" line="141" column="34" />
         <mark key="." line="141" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVSDKCore/src/com/easyvaas/sdk/core/EVSdk.java" timestamp="1476250856884">
-        <mark key="'" line="87" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/adapter/item/AdapterFollowMessageItem.java" timestamp="1473497639160">
         <mark key="[" line="50" column="27" />
@@ -739,7 +742,7 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476266674413">
+      <file name="/Dummy.txt" timestamp="1477370352539">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/activity/GroupNameChangedActivity.java" timestamp="1474257421305">
@@ -912,10 +915,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGNvbXBpbGUgXCdjb21cLnNxdWFyZXVwXC5yZXRyb2ZpdFw6</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIGNvbXBpbGUgXCdjb21cLnNxdWFyZXVwXC5yZXRyb2ZpdFw6</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>shut_up</text>
@@ -951,7 +954,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -989,9 +992,9 @@
         <entry>set hls</entry>
         <entry>16</entry>
         <entry>46</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
