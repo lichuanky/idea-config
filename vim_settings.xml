@@ -66,7 +66,6 @@
         <mark key="^" line="32" column="80" />
         <mark key="." line="32" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/activity/WebViewActivity.java" timestamp="1477370267628" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/layout/fragment_message.xml" timestamp="1473402883429">
         <mark key="[" line="16" column="35" />
         <mark key="]" line="16" column="46" />
@@ -120,6 +119,12 @@
         <mark key="]" line="64" column="51" />
         <mark key="^" line="64" column="51" />
         <mark key="." line="64" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/README.md" timestamp="1477377579136">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/Gift/src/main/java/com/easyvaas/common/gift/GiftManager.java" timestamp="1474281779272">
         <mark key="[" line="25" column="57" />
@@ -944,11 +949,11 @@
       <jump line="96" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/activity/user/VideoListActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2VsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>vid</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>shut_up</text>
