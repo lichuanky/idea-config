@@ -1,0 +1,25 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1dbe6721-6f4a-4c1e-aeee-73f32ccfb928" name="hooview" url="http://139.129.229.143">
+        <fileTransfer host="139.129.229.143" port="22" rootFolder="/easyvaas/gw" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a42384fd-beef-4171-8a41-fc4d0d10aae5" name="test-easyvaas" url="http://test.easyvaas.com/easyvaas/opadmin">
+        <fileTransfer host="test.easyvaas.com" port="22" rootFolder="/easyvaas/gw" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABEMwWxy93qHjNXruk0PFSogrpQQYGYC2iSZjQ8Of/pISwxMZcKfr0v02//w9oS9D2dO88YdDT3PRHSBZcSG+oXiypnCqEqddCIwJOSx2CryXb1/Q1+Pb+BvFbupBtwixVzK3G5yKkFUMp/cJbTjBvbPILPkrHWeLT/l7yBpcwM2hmTa3PhtlNO+Riq/iIPfkSrqitae+7eTNaV4+AE8Kyy5djQVLsZdw0XDdC/mvihFvEXRcl3vVgYc3sUrR7ocfa08SwPpcU0nREve3ThfwfwArKywWmBkKSLMg6kKygpXMgaUML1/0m5O20nEmnhM7nvtfEETfXpGkH4bHpBwr/RvLWGdArCadYnLdviA3bOSnoDaCWyN8qJ5Fjw92zgX7ZKg==</data>
+  </component>
+</application>
