@@ -185,11 +185,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1477370037054">
-        <mark key="[" line="137" column="42" />
-        <mark key="]" line="137" column="42" />
-        <mark key="." line="137" column="42" />
-        <mark key="^" line="138" column="45" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/build.gradle" timestamp="1477456207478">
+        <mark key="[" line="137" column="18" />
+        <mark key="]" line="137" column="19" />
+        <mark key="." line="137" column="19" />
+        <mark key="^" line="137" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/net/ApiHelper.java" timestamp="1474890409591">
         <mark key="'" line="50" column="13" />
@@ -241,6 +241,13 @@
         <mark key="]" line="50" column="0" />
         <mark key="^" line="49" column="19" />
         <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVPlayer/build.gradle" timestamp="1477456351457">
+        <mark key="'" line="64" column="39" />
+        <mark key="[" line="118" column="31" />
+        <mark key="]" line="64" column="39" />
+        <mark key="." line="64" column="39" />
+        <mark key="^" line="64" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/drawable/ic_live_permission.xml" timestamp="1473501584720">
         <mark key="[" line="3" column="33" />
@@ -323,6 +330,12 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVPlayer/gradle.properties" timestamp="1477456380682">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="26" column="27" />
+        <mark key="." line="26" column="27" />
+        <mark key="^" line="26" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/live/SkinBlurFilterSoft.java" timestamp="1473488750950">
         <mark key="[" line="73" column="22" />
         <mark key="]" line="72" column="25" />
@@ -370,14 +383,13 @@
         <mark key="^" line="40" column="93" />
         <mark key="." line="40" column="93" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/net/ApiConstant.java" timestamp="1477451755197" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/adapter/item/UserAdapterItem.java" timestamp="1473745549120">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="^" line="85" column="45" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVSDKCore/build.gradle" timestamp="1477388450384">
+      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVSDKCore/build.gradle" timestamp="1477456321050">
         <mark key="'" line="50" column="46" />
         <mark key="[" line="19" column="25" />
         <mark key="]" line="19" column="30" />
@@ -847,7 +859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="477" column="49" filename="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/activity/ChatActivity.java" />
       <jump line="470" column="65" filename="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/activity/ChatActivity.java" />
       <jump line="457" column="42" filename="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/activity/ChatActivity.java" />
       <jump line="694" column="54" filename="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/activity/ChatActivity.java" />
@@ -947,13 +958,14 @@
       <jump line="96" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/activity/user/VideoListActivity.java" />
       <jump line="26" column="11" filename="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/gradle.properties" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/gradle/bintray.gradle" />
+      <jump line="64" column="39" filename="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVPlayer/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>git.yizhibo.tv/android/mvn-repo</text>
+        <text>evcore</text>
       </register>
       <register name="-" type="4">
-        <text>git.yizhibo.tv/android/mvn-repo</text>
+        <text>evcore</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">PDw8</text>
@@ -962,28 +974,28 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBIRUFEX1BPUlRSQUlUX1dJRFRIID0gNDgwOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgaW50IEhFQURfUE9SVFJBSVRfSEVJR0hUID0gNDgwOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBcHBseSBuZXcgcHVibGlzaCBhYXIgZmVhdHVyZQo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBBcHBseSBuZXcgcHVibGlzaCBhYXIgZmVhdHVyZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBBcHBseSBuZXcgcHVibGlzaCBhYXIgZmVhdHVyZQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Pj4+Pj4+PiBBcHBseSBuZXcgcHVibGlzaCBhYXIgZmVhdHVyZQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFEClZFUlNJT05fTkFNRT0xLjAuMTIKPT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Pj4+Pj4+PiBBcHBseSBuZXcgcHVibGlzaCBhYXIgZmVhdHVyZQo=</text>
