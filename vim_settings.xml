@@ -27,7 +27,7 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1476341814551">
+      <file name="/a.dummy" timestamp="1477460813921">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/layout/item_message_follow.xml" timestamp="1474256569582">
@@ -54,10 +54,10 @@
         <mark key="^" line="32" column="63" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVSDKCore/gradle.properties" timestamp="1477388483193">
-        <mark key="[" line="23" column="17" />
-        <mark key="]" line="23" column="17" />
-        <mark key="." line="23" column="17" />
+      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVSDKCore/gradle.properties" timestamp="1477460641524">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/Statistics/src/main/java/com/easyvaas/common/statistics/net/ApiConstant.java" timestamp="1474338689822">
         <mark key="[" line="32" column="81" />
@@ -330,11 +330,11 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVPlayer/gradle.properties" timestamp="1477456380682">
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="26" column="27" />
-        <mark key="." line="26" column="27" />
-        <mark key="^" line="26" column="27" />
+      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVPlayer/gradle.properties" timestamp="1477460842949">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/live/SkinBlurFilterSoft.java" timestamp="1473488750950">
         <mark key="[" line="73" column="22" />
