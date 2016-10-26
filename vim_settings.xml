@@ -21,7 +21,7 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1477024945390">
+      <file name="/a.dummy" timestamp="1477480028076">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -95,6 +95,12 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/options.conf" timestamp="1477480036464">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/easyvaas-pack/options.conf" timestamp="1476783166171">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="11" />
@@ -113,11 +119,11 @@
         <mark key="]" line="33" column="44" />
         <mark key="." line="33" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup.sh" timestamp="1477477399035">
-        <mark key="[" line="10" column="27" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="10" column="25" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup.sh" timestamp="1477477527004">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="97" />
+        <mark key="^" line="11" column="97" />
+        <mark key="." line="11" column="97" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" timestamp="1477476490023">
         <mark key="'" line="67" column="67" />
@@ -247,10 +253,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Check</text>
+        <text>$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive</text>
       </register>
       <register name="-" type="4">
-        <text>Check</text>
+        <text>$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive</text>
       </register>
       <register name="/" type="4">
         <text>base_host_url</text>
