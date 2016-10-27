@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/interface/service/playurl.php" timestamp="1477553438073" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/interface/service/playurl.php" timestamp="1477555897141">
+        <mark key="[" line="56" column="12" />
+        <mark key="]" line="56" column="12" />
+        <mark key="." line="56" column="12" />
+        <mark key="^" line="56" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appage/interface/service/playurl.php" timestamp="1477555605293">
         <mark key="'" line="94" column="8" />
         <mark key="[" line="16" column="2" />
@@ -19,29 +24,35 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isset</text>
       </register>
-      <register name="2" type="8">
-        <text>$</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGZpZCA9ICR2aWRlb1snZmlkJ107Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="8">
+        <text>$</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludF9yKCR2aWRlbyk7ZGllOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CmRpZTs=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHByaW50X3IoJGNvZGUpOwogICAgICAgIHByeA==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGZpZCA9ICR2aWRlb1snZmlkJ107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZXRfb2JqKTtkaWU7</text>
+        <text>isset</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
