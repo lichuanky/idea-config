@@ -6,6 +6,13 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/datetime.php" timestamp="1477633889478" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/http.php" timestamp="1477634468935" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/appgate/config/config.php" timestamp="1477629289571" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/config/yishiyun.php.template.dev" timestamp="1477638894548" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/config/yishiyun.php" timestamp="1477638912380">
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="12" column="73" />
+        <mark key="." line="12" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/config/yishiyun.php" timestamp="1477629555244">
         <mark key="[" line="17" column="72" />
       </file>
@@ -26,8 +33,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="2" type="8">
         <text>$</text>
@@ -48,7 +55,7 @@
         <text>93</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRyZXRfb2JqKTtkaWU7</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
