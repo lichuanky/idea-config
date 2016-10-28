@@ -3,25 +3,38 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/config/constants.php" timestamp="1477642900022">
-        <mark key="[" line="101" column="66" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/models/Manager_model.php" timestamp="1477642845709" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/config/yishiyun.php" timestamp="1477638912380">
         <mark key="[" line="12" column="33" />
         <mark key="]" line="12" column="33" />
         <mark key="^" line="12" column="73" />
         <mark key="." line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/libraries/Oss_service.php" timestamp="1477647720778" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/config/yishiyun.php" timestamp="1477629555244">
         <mark key="[" line="19" column="72" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/views/module/carousel.php" timestamp="1477647769857" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appage/interface/service/playurl.php" timestamp="1477555605293">
         <mark key="'" line="94" column="8" />
         <mark key="[" line="16" column="2" />
         <mark key="]" line="97" column="0" />
         <mark key="^" line="60" column="24" />
         <mark key="." line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/config/constants.php" timestamp="1477642900022">
+        <mark key="[" line="101" column="66" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/controllers/Module.php" timestamp="1477647793819">
+        <mark key="[" line="343" column="38" />
+        <mark key="]" line="343" column="39" />
+        <mark key="." line="343" column="39" />
+        <mark key="^" line="343" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/controllers/Module.php" timestamp="1477647820762">
+        <mark key="[" line="343" column="35" />
+        <mark key="]" line="343" column="39" />
+        <mark key="." line="343" column="39" />
+        <mark key="^" line="343" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -32,7 +45,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>file</text>
       </register>
       <register name="2" type="8">
         <text>$</text>
@@ -53,7 +66,7 @@
         <text>104</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>file</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
