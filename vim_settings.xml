@@ -10,6 +10,7 @@
         <mark key="^" line="60" column="24" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/views/video/video.php" timestamp="1477625230584" />
     </filemarks>
     <jumps>
       <jump line="93" column="8" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appage/interface/service/playurl.php" />
