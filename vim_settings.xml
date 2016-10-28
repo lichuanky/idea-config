@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/config/constants.php" timestamp="1477642900022">
+        <mark key="[" line="101" column="66" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/models/Manager_model.php" timestamp="1477642845709" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/config/yishiyun.php" timestamp="1477638912380">
         <mark key="[" line="12" column="33" />
         <mark key="]" line="12" column="33" />
@@ -46,7 +50,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJGZpZCA9ICR2aWRlb1snZmlkJ107Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>93</text>
+        <text>104</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -68,6 +72,7 @@
       </history-search>
       <history-cmd>
         <entry>93</entry>
+        <entry>104</entry>
       </history-cmd>
       <history-expr />
       <history-input />
