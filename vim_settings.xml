@@ -3,12 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/opadmin/application/views/module/carousel.php" timestamp="1477647907753" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/config/yishiyun.php" timestamp="1477638912380">
         <mark key="[" line="12" column="33" />
         <mark key="]" line="12" column="33" />
         <mark key="^" line="12" column="73" />
         <mark key="." line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/opadmin/application/controllers/Module.php" timestamp="1477647881656" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/libraries/Oss_service.php" timestamp="1477647720778" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/config/yishiyun.php" timestamp="1477629555244">
         <mark key="[" line="19" column="72" />
