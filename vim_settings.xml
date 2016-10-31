@@ -3,6 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1477907698595">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/common/video.php" timestamp="1477906685318" />
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_superglobals.php" timestamp="1477907656199" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/start.php" timestamp="1477906672190">
+        <mark key="'" line="34" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/config/constants.php" timestamp="1477642900022">
+        <mark key="[" line="101" column="66" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/daemon/removeinactivelives.php" timestamp="1477907128752">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/common/app.php" timestamp="1477906869198" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/controllers/Module.php" timestamp="1477647793819">
+        <mark key="[" line="343" column="38" />
+        <mark key="]" line="343" column="39" />
+        <mark key="." line="343" column="39" />
+        <mark key="^" line="343" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/controllers/Module.php" timestamp="1477647820762">
+        <mark key="[" line="343" column="35" />
+        <mark key="]" line="343" column="39" />
+        <mark key="." line="343" column="39" />
+        <mark key="^" line="343" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/opadmin/application/views/module/carousel.php" timestamp="1477647907753" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/config/yishiyun.php" timestamp="1477638912380">
         <mark key="[" line="12" column="33" />
@@ -21,38 +49,37 @@
         <mark key="[" line="19" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/views/module/carousel.php" timestamp="1477647769857" />
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appage/interface/service/playurl.php" timestamp="1477555605293">
-        <mark key="'" line="94" column="8" />
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="60" column="24" />
-        <mark key="." line="97" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/config/config.php" timestamp="1477906920112">
+        <mark key="'" line="148" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/config/constants.php" timestamp="1477642900022">
-        <mark key="[" line="101" column="66" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/interface/sched/liveupdate.php" timestamp="1477907279825">
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="24" column="58" />
+        <mark key="." line="24" column="58" />
+        <mark key="^" line="24" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/controllers/Module.php" timestamp="1477647793819">
-        <mark key="[" line="343" column="38" />
-        <mark key="]" line="343" column="39" />
-        <mark key="." line="343" column="39" />
-        <mark key="^" line="343" column="39" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/controllers/Module.php" timestamp="1477647820762">
-        <mark key="[" line="343" column="35" />
-        <mark key="]" line="343" column="39" />
-        <mark key="." line="343" column="39" />
-        <mark key="^" line="343" column="39" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/interface/sched/updatestate.php" timestamp="1477907715558" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/app.php" timestamp="1477907624719">
+        <mark key="'" line="172" column="77" />
       </file>
     </filemarks>
     <jumps>
       <jump line="93" column="8" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appage/interface/service/playurl.php" />
+      <jump line="34" column="30" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/start.php" />
+      <jump line="148" column="33" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/config/config.php" />
+      <jump line="80" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/app.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/app.php" />
+      <jump line="172" column="77" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/app.php" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAJCSAgICAkdGhpcy0+bG9nZ2VyLT5pbmZvKCIkdmlkZW8tPnZpZCBQdWJsaXNoIExpdmUgTm90aWZpY2F0aW9uIik7Cg==</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>file</text>
+        <text>Notification</text>
       </register>
       <register name="2" type="8">
         <text>$</text>
@@ -73,22 +100,24 @@
         <text>104</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>Notification</text>
       </register>
       <register name="/" type="4">
-        <text>ret_obj</text>
+        <text>data</text>
       </register>
     </registers>
     <search>
-      <last-search>ret_obj</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>ret_obj</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>ret_obj</entry>
+        <entry>$vs</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
