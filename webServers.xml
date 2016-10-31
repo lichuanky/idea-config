@@ -17,9 +17,17 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="2e0fcdda-7141-41a6-b161-089a9d932d92" name="dev001" url="http://dev.yizhibo.tv/user/lichuan/">
+        <fileTransfer host="123.57.240.208" port="13202" rootFolder="/home/lichuan/code" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="13202" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABENtvXcaHgiiL34Ykh6Xnf+ECQ7C02cjJUyxEhq33CbCoD/PqD2SL2IMRjmFeZg13FhoRG19wf578T24wyDahpiDVo6P3W0Nm6b0WcBAHs9zFa1qdHJQ/UjJ+qJIHKRVcXBnx3FohjgWpBJkEuMAUNvkHNojTS3STFQGmEmiOUnePoIzKHmWAa/F9ghTKmscqzuhEC9fS9+ieGHP3J1VLqOOSLtEUxpieE7TiBM+ea+dGCNO3JcfRVZCOMOozldAdq09AmN5cJx2YgrWlc/YQyb3KBAb697Y+LV49f8uhRDO5X0tmBHF0Wb5RuRRCx7gAWvOVuK1+dvtzFAWQyi2o9BjFncqKirNVga7PgF81fk5Lcu0+tQepphpOXjRNF4z9bw==</data>
+    <data>AAABgN+vw6t5XuzPZ4XvwyaP0COUmKL07MrKlAfJKIkLOElEnThIbn2qgFe6McIMlXo/Dz6et43VEQ1kLyY4bRWKOIO/+WlVmBA+T/zdF4f3u6os8Lo5bzddHwKUjoQEIYu94tFadOuxce1K99QhBGNnOnc/ETp3jPnED5Ivla0IRx1mYDHoYeZJ2w4f6Dknduitz0uzyUTm8SeHPgKlMmyPLtSRjGrfu8VePbFwLAs+OashER9pEU0Opuo7N9rKsLMSSE7e0KeX5tv1PT8KZxYkcS/uhLlPrmy79oyjZapUM5PDetAFOd29r4rzy2jHm8XOtYhfwukctLu9FOaW7BLpAQhSblzEct6hgyvpgrHp9Qg2ka4sdFwydzo1W1C5nX8pH07w9BkznVJP6QH8tN8GxXbVkoJMuXyyQLf9gPmg0hVN0AlHrF1+yF4gW319E+HMx08fIytOoMvQ8/yj2ohmiD1YMrxFYDVmvCt5DvYO3wcPhm9Mcxl5h6NYt+N86GrHnMF9SqfsS4P+7bRtLIib8y4=</data>
   </component>
 </application>
