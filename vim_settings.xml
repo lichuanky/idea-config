@@ -440,7 +440,7 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1477370352539">
+      <file name="/Dummy.txt" timestamp="1477995187106">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/utils/Logger.java" timestamp="1472369452914">
@@ -491,8 +491,10 @@
         <mark key="^" line="21" column="19" />
         <mark key="." line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/lib/JPush/Config.php" timestamp="1477993112391">
-        <mark key="[" line="9" column="6" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/lib/JPush/Config.php" timestamp="1477995601735">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/layout/activity_set_video_permission.xml" timestamp="1473502364214">
         <mark key="[" line="9" column="34" />
@@ -534,6 +536,9 @@
         <mark key="]" line="343" column="39" />
         <mark key="." line="343" column="39" />
         <mark key="^" line="343" column="39" />
+      </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL.php" timestamp="1477994217077">
+        <mark key="'" line="39" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/build/intermediates/exploded-aar/android/EasyChat/unspecified/res/layout/chat_view_rcv_pull_load.xml" timestamp="1473323438196">
         <mark key="[" line="7" column="25" />
@@ -580,6 +585,12 @@
         <mark key="]" line="64" column="51" />
         <mark key="^" line="64" column="51" />
         <mark key="." line="64" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/service/push.php" timestamp="1477995580664">
+        <mark key="[" line="22" column="90" />
+        <mark key="]" line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/pay/AlipayHelper.java" timestamp="1473840891796">
         <mark key="[" line="18" column="0" />
@@ -748,6 +759,11 @@
         <mark key="]" line="20" column="57" />
         <mark key="^" line="20" column="57" />
         <mark key="." line="20" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/appgate/lib/JPush/Config.php" timestamp="1477969928902">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/live/activity/SetVideoPermisionActivity.java" timestamp="1473502230448">
         <mark key="[" line="4" column="15" />
@@ -995,11 +1011,11 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/cache/redis/redisbase.php" timestamp="1477909105699">
         <mark key="'" line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/lib/JPush/Client.php" timestamp="1477993739321">
-        <mark key="[" line="21" column="73" />
-        <mark key="]" line="21" column="69" />
-        <mark key="." line="21" column="69" />
-        <mark key="^" line="21" column="69" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/lib/JPush/Client.php" timestamp="1477995592372">
+        <mark key="[" line="20" column="64" />
+        <mark key="]" line="20" column="64" />
+        <mark key="." line="20" column="64" />
+        <mark key="^" line="20" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/res/values/strings.xml" timestamp="1477375547593">
         <mark key="[" line="576" column="41" />
@@ -1055,13 +1071,14 @@
       <jump line="114" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/config/config.php" />
       <jump line="60" column="18" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/cache/redis/redisbase.php" />
       <jump line="211" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/cache/redis/redisbase.php" />
+      <jump line="39" column="6" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DEFAULT_LOG_FILE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IERFRkFVTFRfTE9HX0ZJTEUgPSAiL2hvbWUvbGl1cnUvZ2xvYmFsL2NvZGUvbG9nL2pwdXNoLmxvZyI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>DEFAULT_LOG_FILE</text>
+        <text>=Config::DEFAULT_LOG_FILE</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
@@ -1070,31 +1087,31 @@
         <text encoding="base64">ICAgIHN0YXRpYyAkREVGQVVMVF9MT0dfRklMRSA9IENvbmZpZzo6JExPR19ST09ULiIvanB1c2gubG9nIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlKGRpcm5hbWUoX19GSUxFX18pIC4gIi8uLi8uLi9jb25maWcvY29uZmlnLnBocCIpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IERFRkFVTFRfTE9HX0ZJTEUgPSAiL2hvbWUvbGl1cnUvZ2xvYmFsL2NvZGUvbG9nL2pwdXNoLmxvZyI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyAkREVGQVVMVF9MT0dfRklMRSA9IENvbmZpZzo6JExPR19ST09ULiIvanB1c2gubG9nIjsK</text>
+        <text encoding="base64">cmVxdWlyZV9vbmNlKGRpcm5hbWUoX19GSUxFX18pIC4gIi8uLi9saWIvSlB1c2gvQ29uZmlnLnBocCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyAkREVGQVVMVF9MT0dfRklMRSA9ICRMT0dfUk9PVC4iL2pwdXNoLmxvZyI7Cg==</text>
+        <text encoding="base64">cmVxdWlyZV9vbmNlKGRpcm5hbWUoX19GSUxFX18pIC4gIi8uLi9saWIvSlB1c2gvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlKGRpcm5hbWUoX19GSUxFX18pIC4gIi8uLi8uLi9jb25maWcvY29uZmlnLnBocCIpOwo=</text>
+        <text encoding="base64">dXNlIENvbmZpZzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyAkSlBVU0hfTE9HX0ZJTEUgPSAiL2hvbWUvbGljaHVhbi9sZW9wYXJkL2xvZ3MvanB1c2gubG9nIjsK</text>
+        <text encoding="base64">cmVxdWlyZV9vbmNlKGRpcm5hbWUoX19GSUxFX18pIC4gIi8uLi8uLi9jb25maWcvY29uZmlnLnBocCIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyAkSlBVU0hfTE9HX0ZJTEUgPSAiL2hvbWUvbGljaHVhbi9sZW9wYXJkL2xvZ3MvanB1c2gubG9nIjsK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyAkREVGQVVMVF9MT0dfRklMRSA9IENvbmZpZzo6JExPR19ST09ULiIvanB1c2gubG9nIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyAkSlBVU0hfTE9HX0ZJTEUgPSAkTE9HX1JPT1QuImpwdXNoLmxvZyI7Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyAkREVGQVVMVF9MT0dfRklMRSA9ICRMT0dfUk9PVC4iL2pwdXNoLmxvZyI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyAkSlBVU0hfTE9HX0ZJTEUgPSAkTE9HX1JPT1QuIi9qcHVzaC5sb2ciOyAvL+aegQo=</text>
+        <text encoding="base64">cmVxdWlyZV9vbmNlKGRpcm5hbWUoX19GSUxFX18pIC4gIi8uLi8uLi9jb25maWcvY29uZmlnLnBocCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IERFRkFVTFRfTE9HX0ZJTEUgPSAiL2hvbWUvbGl1cnUvZ2xvYmFsL2NvZGUvbG9nL2pwdXNoLmxvZyI7Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyAkSlBVU0hfTE9HX0ZJTEUgPSAiL2hvbWUvbGljaHVhbi9sZW9wYXJkL2xvZ3MvanB1c2gubG9nIjsK</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
