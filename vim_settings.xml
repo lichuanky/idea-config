@@ -15,7 +15,7 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/logger.php" timestamp="1477909077344">
         <mark key="'" line="172" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1477992301628">
+      <file name="/a.dummy" timestamp="1477997876548">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/layout/item_message_follow.xml" timestamp="1474256569582">
@@ -109,13 +109,6 @@
         <mark key="^" line="12" column="73" />
         <mark key="." line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/net/ApiHelper.java" timestamp="1474890409591">
-        <mark key="'" line="50" column="13" />
-        <mark key="[" line="539" column="36" />
-        <mark key="]" line="539" column="36" />
-        <mark key="^" line="539" column="35" />
-        <mark key="." line="539" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/hooview/HooViewAndroid/elapp/build.gradle" timestamp="1476341735330">
         <mark key="[" line="131" column="43" />
       </file>
@@ -124,20 +117,6 @@
         <mark key="]" line="67" column="44" />
         <mark key="^" line="67" column="44" />
         <mark key="." line="67" column="44" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/activity/home/HomeTopicListActivity.java" timestamp="1474779087317">
-        <mark key="'" line="53" column="48" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="49" column="19" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVPlayer/build.gradle" timestamp="1477470447115">
-        <mark key="'" line="65" column="39" />
-        <mark key="[" line="43" column="4" />
-        <mark key="]" line="43" column="5" />
-        <mark key="." line="43" column="5" />
-        <mark key="^" line="43" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/res/drawable/ic_live_permission.xml" timestamp="1473501584720">
         <mark key="[" line="3" column="33" />
@@ -271,6 +250,7 @@
         <mark key="^" line="36" column="79" />
         <mark key="." line="36" column="79" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/common/logger.php" timestamp="1477997777788" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/activity/usercenter/FriendsUserInfoActivity.java" timestamp="1473498921369">
         <mark key="[" line="159" column="40" />
         <mark key="]" line="159" column="40" />
@@ -294,13 +274,6 @@
         <mark key="]" line="32" column="19" />
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/gradle/bintray.gradle" timestamp="1477388192205">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="^" line="95" column="26" />
-        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/activity/login/activity/UserLoginHomeFragment.java" timestamp="1472365431087">
         <mark key="[" line="43" column="62" />
@@ -326,13 +299,6 @@
         <mark key="." line="9" column="62" />
         <mark key="^" line="9" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/res/values/strings.xml" timestamp="1474787160650">
-        <mark key="'" line="198" column="0" />
-        <mark key="[" line="198" column="36" />
-        <mark key="]" line="198" column="26" />
-        <mark key="^" line="198" column="26" />
-        <mark key="." line="198" column="26" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVSDKCore/proguard-rules.txt" timestamp="1476258689112">
         <mark key="[" line="93" column="39" />
         <mark key="]" line="93" column="40" />
@@ -340,13 +306,6 @@
         <mark key="^" line="93" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/opadmin/application/libraries/Call_interface.php" timestamp="1477992317836" />
-      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/gradle/publishJecent.gradle" timestamp="1476179582644">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="54" column="1" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/views/module/carousel.php" timestamp="1477647769857" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/activity/user/VideoListActivity.java" timestamp="1474785166546">
         <mark key="[" line="85" column="16" />
@@ -359,13 +318,6 @@
         <mark key="]" line="24" column="58" />
         <mark key="." line="24" column="58" />
         <mark key="^" line="24" column="58" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/activity/pay/CashInActivity.java" timestamp="1474623620835">
-        <mark key="'" line="338" column="32" />
-        <mark key="[" line="368" column="37" />
-        <mark key="]" line="368" column="37" />
-        <mark key="^" line="232" column="22" />
-        <mark key="." line="368" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/chat/ChatGiftEntity.java" timestamp="1474284013074">
         <mark key="[" line="51" column="0" />
@@ -420,13 +372,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/db/ChatDB.java" timestamp="1474781133428">
-        <mark key="'" line="11" column="51" />
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="40" />
-        <mark key="^" line="11" column="40" />
-        <mark key="." line="11" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/res/layout/fragment_message.xml" timestamp="1473905465642">
         <mark key="[" line="29" column="26" />
@@ -549,13 +494,6 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/service/cache.php" timestamp="1477985892227">
         <mark key="'" line="223" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/UserUtil.java" timestamp="1477989149709">
-        <mark key="'" line="125" column="8" />
-        <mark key="[" line="125" column="34" />
-        <mark key="]" line="125" column="37" />
-        <mark key="." line="125" column="37" />
-        <mark key="^" line="125" column="37" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/config/config.php.template.test" timestamp="1477993515916">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -572,13 +510,6 @@
         <mark key="]" line="49" column="53" />
         <mark key="^" line="49" column="53" />
         <mark key="." line="49" column="53" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVMessage/build.gradle" timestamp="1477470504833">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="117" column="31" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="44" column="1" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/adapter/item/CashInAmountAdapterItem.java" timestamp="1473845157549">
         <mark key="[" line="22" column="48" />
@@ -741,12 +672,8 @@
         <mark key="^" line="11" column="58" />
         <mark key="." line="11" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVSDKCore/build.gradle" timestamp="1477456321050">
-        <mark key="'" line="50" column="46" />
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="30" />
-        <mark key="." line="19" column="30" />
-        <mark key="^" line="19" column="30" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/utils/logger.php" timestamp="1477997856053">
+        <mark key="'" line="26" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/common/gift/view/GiftGridAdapter.java" timestamp="1472182505354">
         <mark key="[" line="19" column="0" />
@@ -780,26 +707,12 @@
       <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/demo/build.gradle" timestamp="1476263936066">
         <mark key="[" line="36" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/utils/ChatUserUtil.java" timestamp="1474781559454">
-        <mark key="'" line="138" column="115" />
-        <mark key="[" line="141" column="33" />
-        <mark key="]" line="141" column="33" />
-        <mark key="^" line="141" column="34" />
-        <mark key="." line="141" column="33" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/common/video.php" timestamp="1477906685318" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/adapter/item/AdapterFollowMessageItem.java" timestamp="1473497639160">
         <mark key="[" line="50" column="27" />
         <mark key="]" line="50" column="27" />
         <mark key="^" line="38" column="3" />
         <mark key="." line="50" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/activity/user/VideoListActivity.java" timestamp="1477376935970">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="320" column="77" />
-        <mark key="]" line="320" column="74" />
-        <mark key="." line="320" column="74" />
-        <mark key="^" line="320" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/android/elapp/src/main/java/com/easyvaas/elapp/utils/Utils.java" timestamp="1477376738528">
         <mark key="[" line="232" column="0" />
@@ -857,13 +770,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="17" column="50" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/live/activity/LiveRoomBaseActivity.java" timestamp="1474787344510">
-        <mark key="'" line="398" column="43" />
-        <mark key="[" line="1116" column="92" />
-        <mark key="]" line="1116" column="92" />
-        <mark key="^" line="1113" column="29" />
-        <mark key="." line="1116" column="92" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/serverparam/ServerParam.java" timestamp="1474285947943">
         <mark key="[" line="37" column="0" />
@@ -927,13 +833,6 @@
         <mark key="^" line="60" column="11" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/activity/home/fragment/TabBaseMainFragment.java" timestamp="1474778690013">
-        <mark key="'" line="169" column="46" />
-        <mark key="[" line="58" column="65" />
-        <mark key="]" line="51" column="61" />
-        <mark key="^" line="51" column="61" />
-        <mark key="." line="51" column="61" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/net/AppChatHelper.java" timestamp="1474263625026">
         <mark key="[" line="77" column="4" />
         <mark key="]" line="77" column="4" />
@@ -975,20 +874,6 @@
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/gradle.properties" timestamp="1476339673548">
         <mark key="[" line="16" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appage/interface/service/playurl.php" timestamp="1477555605293">
-        <mark key="'" line="94" column="8" />
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="60" column="24" />
-        <mark key="." line="97" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/activity/home/fragment/TabMessageFragment.java" timestamp="1474786567796">
-        <mark key="'" line="151" column="20" />
-        <mark key="[" line="151" column="74" />
-        <mark key="]" line="151" column="0" />
-        <mark key="^" line="151" column="41" />
-        <mark key="." line="151" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/utils/DialogUtil.java" timestamp="1474270806011">
         <mark key="[" line="191" column="0" />
@@ -1072,6 +957,7 @@
       <jump line="60" column="18" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/cache/redis/redisbase.php" />
       <jump line="211" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/cache/redis/redisbase.php" />
       <jump line="39" column="6" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL.php" />
+      <jump line="26" column="21" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/utils/logger.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
