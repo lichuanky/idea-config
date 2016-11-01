@@ -15,7 +15,7 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/logger.php" timestamp="1477909077344">
         <mark key="'" line="172" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1477908969281">
+      <file name="/a.dummy" timestamp="1477968126109">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/common/video.php" timestamp="1477906685318" />
@@ -26,6 +26,12 @@
         <mark key="." line="343" column="39" />
         <mark key="^" line="343" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/config/config.php.template.dev.php" timestamp="1477968100255">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/opadmin/application/views/module/carousel.php" timestamp="1477647907753" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/opadmin/application/controllers/Module.php" timestamp="1477649320729">
         <mark key="[" line="343" column="35" />
@@ -34,11 +40,24 @@
         <mark key="^" line="343" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/libraries/Oss_service.php" timestamp="1477647720778" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/config/config.php.template.dev" timestamp="1477968194371">
+        <mark key="[" line="39" column="41" />
+        <mark key="]" line="39" column="41" />
+        <mark key="." line="39" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/config/yishiyun.php" timestamp="1477629555244">
         <mark key="[" line="19" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/config/config.php" timestamp="1477906920112">
-        <mark key="'" line="148" column="33" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/config/config.php.template.test" timestamp="1477967634585">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/config/config.php" timestamp="1477968179447">
+        <mark key="'" line="118" column="33" />
+        <mark key="[" line="34" column="77" />
+        <mark key="]" line="34" column="77" />
+        <mark key="." line="34" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/lib/JPush/Http.php" timestamp="1477909200716">
         <mark key="'" line="94" column="61" />
@@ -47,14 +66,17 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/interface/sched/updatestate.php" timestamp="1477907715558" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/config/config.php.template.dist" timestamp="1477968055085">
+        <mark key="'" line="159" column="0" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/cache/redis/redisbase.php" timestamp="1477909105699">
         <mark key="'" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/lib/JPush/Client.php" timestamp="1477908989479" />
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_superglobals.php" timestamp="1477907656199" />
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/start.php" timestamp="1477906672190">
-        <mark key="'" line="34" column="30" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/config/constants.php" timestamp="1477642900022">
         <mark key="[" line="101" column="66" />
       </file>
@@ -105,43 +127,50 @@
       <jump line="33" column="47" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/app.php" />
       <jump line="94" column="61" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/lib/JPush/Http.php" />
       <jump line="42" column="42" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/interface/admin/carousellist.php" />
+      <jump line="173" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/config/config.php.template.dist" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>/</text>
+      </register>
+      <register name="-" type="4">
+        <text>/</text>
+      </register>
+      <register name="/" type="4">
+        <text>data</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">cmVxdWlyZV9vbmNlKGRpcm5hbWUoX19GSUxFX18pIC4gIi8uLi9jb25maWcvY29uZmlnLnBocCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlKGRpcm5hbWUoX19GSUxFX18pIC4gIi8uLi8uLi9jb25maWcvY29uZmlnLnBocCIpOwo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>home/liuru/global/code/log</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>$</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCR2aWRlbyk7ZGllOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmRpZTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHByaW50X3IoJGNvZGUpOwogICAgICAgIHByeA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZpZCA9ICR2aWRlb1snZmlkJ107Cg==</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>104</text>
-      </register>
-      <register name="-" type="4">
-        <text>home/liuru/global/code/log</text>
-      </register>
-      <register name="/" type="4">
-        <text>data</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -160,6 +189,7 @@
       <history-cmd>
         <entry>93</entry>
         <entry>104</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
