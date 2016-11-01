@@ -76,13 +76,15 @@
         <mark key="'" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/lib/JPush/Client.php" timestamp="1477908989479" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/appgate/config/config.php" timestamp="1477969916478">
+        <mark key="'" line="127" column="14" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_superglobals.php" timestamp="1477907656199" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/start.php" timestamp="1477906672190">
+        <mark key="'" line="34" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/opadmin/application/config/constants.php" timestamp="1477642900022">
         <mark key="[" line="101" column="66" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/daemon/removeinactivelives.php" timestamp="1477907128752">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/opadmin/application/controllers/Module.php" timestamp="1477647793819">
         <mark key="[" line="343" column="38" />
@@ -111,6 +113,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="58" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/appgate/lib/JPush/Config.php" timestamp="1477969928902">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="93" column="8" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appage/interface/service/playurl.php" />
@@ -128,13 +135,14 @@
       <jump line="94" column="61" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/lib/JPush/Http.php" />
       <jump line="42" column="42" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/interface/admin/carousellist.php" />
       <jump line="173" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/config/config.php.template.dist" />
+      <jump line="127" column="14" filename="$USER_HOME$/workspace/yzb/easyvaas/test-server/appgate/config/config.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>home/liuru/global/code/log/</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>home/liuru/global/code/log/</text>
       </register>
       <register name="/" type="4">
         <text>data</text>
