@@ -33,7 +33,7 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/logger.php" timestamp="1477909077344">
         <mark key="'" line="172" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1477460813921">
+      <file name="/a.dummy" timestamp="1477984431779">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/layout/item_message_follow.xml" timestamp="1474256569582">
@@ -124,6 +124,7 @@
         <mark key="^" line="43" column="54" />
         <mark key="." line="43" column="54" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/netcall/video/hotlist.php" timestamp="1477983802009" />
       <file name="/LLDB" timestamp="1477972570261">
         <mark key="[" line="0" column="0" />
       </file>
@@ -244,7 +245,7 @@
         <mark key="^" line="44" column="26" />
         <mark key="." line="44" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/config/config.php" timestamp="1477982353779">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/config/config.php" timestamp="1477984181012">
         <mark key="'" line="200" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/live/activity/PlayerActivity.java" timestamp="1472374183038">
@@ -253,10 +254,12 @@
         <mark key="^" line="90" column="87" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/app.php" timestamp="1477909127340">
-        <mark key="'" line="33" column="47" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="58" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/app.php" timestamp="1477983936791">
+        <mark key="'" line="367" column="14" />
+        <mark key="[" line="179" column="9" />
+        <mark key="]" line="179" column="8" />
+        <mark key="^" line="179" column="8" />
+        <mark key="." line="179" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/Gift/src/main/java/com/easyvaas/common/gift/animator/GiftAnimator.java" timestamp="1474281654391">
         <mark key="[" line="104" column="84" />
@@ -398,6 +401,7 @@
         <mark key="^" line="147" column="59" />
         <mark key="." line="147" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/db/mysql/t_video.php" timestamp="1477984150794" />
       <file name="$USER_HOME$/workspace/yzb/android/oupai/yzb-app/src/com/yizhibo/video/activity/UserInfoActivity.java" timestamp="1477376612809">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="66" />
@@ -879,6 +883,8 @@
     </filemarks>
     <jumps>
       <jump line="93" column="8" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appage/interface/service/playurl.php" />
+      <jump line="242" column="8" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/app.php" />
+      <jump line="367" column="14" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/app.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -946,19 +952,19 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
