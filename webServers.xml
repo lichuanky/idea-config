@@ -25,9 +25,17 @@
           <option name="port" value="13202" />
         </fileTransfer>
       </webServer>
+      <webServer id="72f77b4c-f0f7-45cf-8976-32df5f45acf9" name="dev001-gw" url="http://dev.yizhibo.tv/user/lichuan/">
+        <fileTransfer host="123.57.240.208" port="13202" rootFolder="/zebra/gw/dev" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="13202" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABgN+vw6t5XuzPZ4XvwyaP0COUmKL07MrKlAfJKIkLOElEnThIbn2qgFe6McIMlXo/Dz6et43VEQ1kLyY4bRWKOIO/+WlVmBA+T/zdF4f3u6os8Lo5bzddHwKUjoQEIYu94tFadOuxce1K99QhBGNnOnc/ETp3jPnED5Ivla0IRx1mYDHoYeZJ2w4f6Dknduitz0uzyUTm8SeHPgKlMmyPLtSRjGrfu8VePbFwLAs+OashER9pEU0Opuo7N9rKsLMSSE7e0KeX5tv1PT8KZxYkcS/uhLlPrmy79oyjZapUM5PDetAFOd29r4rzy2jHm8XOtYhfwukctLu9FOaW7BLpAQhSblzEct6hgyvpgrHp9Qg2ka4sdFwydzo1W1C5nX8pH07w9BkznVJP6QH8tN8GxXbVkoJMuXyyQLf9gPmg0hVN0AlHrF1+yF4gW319E+HMx08fIytOoMvQ8/yj2ohmiD1YMrxFYDVmvCt5DvYO3wcPhm9Mcxl5h6NYt+N86GrHnMF9SqfsS4P+7bRtLIib8y4=</data>
+    <data>AAACADCZl1uSSC8tboHBulaFq0/qiSTkAhXiSh5zlPECOl0hmtWc7GKotYVYGdHmHgq0UkzD/MozMP1daCDITtg7xvHxAlvff4T+3m5Dk/XcAa4TbHlFCEergRN4lJHK9Wc+vIhFj3m0FZHq2yo7D3PaoiHiySuufrO0t4PThXs+WzMq6dpT//J8y5/FOiWZOo9Kxb0iQiXY53H/UlEwsIODq/XxMR0ok3wonl3dn6jkyluxX6skKFpv95iOx9bWHIlrtNNEV1hg5NrW4rbDRMzHbf1L2BPNvh6TNMLiBKWK9YslxJOpwy5Dn0cbXdFkohU0GHdyqYXx/himwjbTxf3qjiT6si0YrfuLMZ3xc+e2/Z+9saTrDjCZLV14ygzPemOTEyoT+gPZOeMHi16ikLnPQHymc+XEVRySG9m4bzmyGzyy4rAjsPQxOYFjflBRGEzZ1v7xsc3WlKlCUcBVtvjYnIx/TpKGBRFMnD8fvrO4oTc8JbSz/mNP6UjtYOgXrNSYqaPydsKs94kFu/KEHmT5N9MOKhPFBH01El+VsdteJ9T8McxLUfyE2sfVNVgBbyqbLj5pv6SBxoOU1JIe21PxEm++z/yVj7BRXHUMLAHM8GNv5aMR2QSd/nbeL3E/sK7ZR0VvoPvwHeB1VI/VPjMbzMdJw/6iI0CG3cf3iBNEQoCUUovgUMYbkWkV/ImyaCjkXA==</data>
   </component>
 </application>
