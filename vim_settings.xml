@@ -15,8 +15,10 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/logger.php" timestamp="1477909077344">
         <mark key="'" line="172" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1478145422811">
+      <file name="/a.dummy" timestamp="1478230416307">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/layout/item_message_follow.xml" timestamp="1474256569582">
         <mark key="[" line="17" column="0" />
@@ -143,7 +145,7 @@
         <mark key="." line="343" column="39" />
         <mark key="^" line="343" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/config/config.php" timestamp="1478145647372">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/config/config.php" timestamp="1478230616842">
         <mark key="'" line="114" column="0" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -643,7 +645,7 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/cache/redis/redisbase.php" timestamp="1477993731678">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/cache/redis/redisbase.php" timestamp="1478230437245">
         <mark key="'" line="211" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/adapter/item/MessageChatAdapterItem.java" timestamp="1474786537648">
@@ -991,10 +993,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vid</text>
+        <text encoding="base64">W3BpbmddIA==</text>
       </register>
       <register name="-" type="4">
-        <text>vid</text>
+        <text encoding="base64">W3BpbmddIA==</text>
       </register>
       <register name="/" type="4">
         <text>ret_obj</text>
