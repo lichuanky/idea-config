@@ -33,7 +33,7 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/logger.php" timestamp="1477909077344">
         <mark key="'" line="172" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1478230416307">
+      <file name="/a.dummy" timestamp="1478515001132">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -553,6 +553,9 @@
         <mark key="^" line="55" column="43" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/service/thirdparty.php" timestamp="1478515013623">
+        <mark key="'" line="42" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/gradle.properties" timestamp="1477388852038">
         <mark key="'" line="26" column="11" />
         <mark key="[" line="37" column="16" />
@@ -828,8 +831,10 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="/dummy.sql" timestamp="1478512492604">
+      <file name="/dummy.sql" timestamp="1478515258946">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/cache/redis/redisbase.php" timestamp="1477909105699">
         <mark key="'" line="68" column="0" />
@@ -928,16 +933,18 @@
       <jump line="130" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/interface/sched/updatestate.php" />
       <jump line="36" column="53" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/interface/sched/liveupdate.php" />
       <jump line="210" column="20" filename="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/app.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/service/thirdparty.php" />
+      <jump line="42" column="61" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/service/thirdparty.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">W3BpbmddIA==</text>
+        <text>authtype = sina</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">W3BpbmddIA==</text>
+        <text>authtype = sina</text>
       </register>
       <register name="/" type="4">
-        <text>ret_obj</text>
+        <text>auth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygkdmlkZW9bJ3ZpZCddLiIgUHVibGlzaCBMaXZlIE5vdGlmaWNhdGlvbiIpOwo=</text>
@@ -974,9 +981,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ret_obj</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern>ret_obj</last-pattern>
+      <last-pattern>auth</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -986,6 +993,7 @@
         <entry>$vs</entry>
         <entry>data</entry>
         <entry>Hot</entry>
+        <entry>auth</entry>
       </history-search>
       <history-cmd>
         <entry>93</entry>
