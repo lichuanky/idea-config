@@ -334,7 +334,7 @@
         <mark key="^" line="139" column="27" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1478503169313">
+      <file name="/a.sql" timestamp="1478512402401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/ChatManager.java" timestamp="1474895647877">
@@ -828,13 +828,19 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="/dummy.sql" timestamp="1478505072436">
+      <file name="/dummy.sql" timestamp="1478512492604">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/cache/redis/redisbase.php" timestamp="1477909105699">
         <mark key="'" line="68" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1478512486874">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4c92aa38-9943-4c50-98da-4df003ca4db4/console_1.sql" timestamp="1478503214263">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4c92aa38-9943-4c50-98da-4df003ca4db4/console.sql" timestamp="1478512454393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/activity/GroupNameChangedActivity.java" timestamp="1474257421305">
