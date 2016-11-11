@@ -40,7 +40,7 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/logger.php" timestamp="1477909077344">
         <mark key="'" line="172" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1478859420264">
+      <file name="/a.dummy" timestamp="1478862161040">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -216,9 +216,6 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/opadmin/application/controllers/Video.php" timestamp="1477992297329">
         <mark key="'" line="235" column="36" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4c92aa38-9943-4c50-98da-4df003ca4db4/console_1.sql" timestamp="1478503214263">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/pay/AlipayHelper.java" timestamp="1473840891796">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -346,17 +343,11 @@
         <mark key="^" line="28" column="82" />
         <mark key="." line="28" column="82" />
       </file>
-      <file name="filetypes.xml" timestamp="1478854725540">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/activity/usercenter/FriendsUserInfoActivity.java" timestamp="1474258173693">
         <mark key="[" line="190" column="0" />
         <mark key="]" line="191" column="69" />
         <mark key="^" line="139" column="27" />
         <mark key="." line="140" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1478512402401">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/ChatManager.java" timestamp="1474895647877">
         <mark key="[" line="205" column="63" />
@@ -396,9 +387,6 @@
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="1" />
         <mark key="^" line="19" column="1" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4c92aa38-9943-4c50-98da-4df003ca4db4/console.sql" timestamp="1478512454393">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVLiveBase/gradle.properties" timestamp="1477470542180">
         <mark key="[" line="26" column="22" />
@@ -494,11 +482,11 @@
         <mark key="^" line="40" column="93" />
         <mark key="." line="40" column="93" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/config_server.sh" timestamp="1478861355172">
-        <mark key="[" line="29" column="50" />
-        <mark key="]" line="29" column="66" />
-        <mark key="." line="29" column="66" />
-        <mark key="^" line="29" column="66" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/config_server.sh" timestamp="1478862527122">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/utils/logger.php" timestamp="1477997856053">
         <mark key="'" line="26" column="21" />
@@ -620,11 +608,11 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-code.sh" timestamp="1478860269256">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="25" />
-        <mark key="^" line="17" column="25" />
-        <mark key="." line="17" column="25" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-code.sh" timestamp="1478862196270">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EmojiKeyboard/build.gradle" timestamp="1474791686205">
         <mark key="[" line="9" column="0" />
@@ -657,9 +645,6 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/netcall/video/start.php" timestamp="1478144567140">
-        <mark key="[" line="89" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/bean/serverparam/ServerParam.java" timestamp="1474285947943">
         <mark key="[" line="37" column="0" />
@@ -768,10 +753,7 @@
         <mark key="^" line="74" column="35" />
         <mark key="." line="77" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/base/bin/options.conf" timestamp="1478854603154" />
-      <file name="vim_settings.xml" timestamp="1478854941228">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/base/bin/options.conf" timestamp="1478861750815" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/res/layout/activity_message_queue.xml" timestamp="1473323160768">
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="30" />
@@ -796,7 +778,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" timestamp="1478860453781">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" timestamp="1478861980729">
         <mark key="'" line="71" column="89" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="133" />
@@ -905,10 +887,7 @@
         <mark key="^" line="44" column="5" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478512486874">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/options.conf.template" timestamp="1478861249031">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/options.conf.template" timestamp="1478862499568">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="28" />
         <mark key="." line="11" column="28" />
@@ -977,9 +956,9 @@
         <mark key="^" line="521" column="86" />
         <mark key="." line="521" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup" timestamp="1478860244246">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup" timestamp="1478862030753">
         <mark key="'" line="23" column="45" />
-        <mark key="[" line="68" column="19" />
+        <mark key="[" line="12" column="0" />
         <mark key="]" line="68" column="18" />
         <mark key="." line="68" column="18" />
         <mark key="^" line="68" column="18" />
@@ -1079,11 +1058,11 @@
       <jump line="857" column="36" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/php.ini.template" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>php_ini_file</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwaHBfZnBtX2luc3RhbGxfZGlyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>php_ini_file</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>extensions\/</text>
@@ -1092,19 +1071,19 @@
         <text encoding="base64">ICBzZWQgLWkgInMvXC9lYXN5dmFhc1wvL1xcJHNfaW5zdGFsbF9yb290XC8vZyIgJHtwaHBfaW5pX2ZpbGV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwaHBfZnBtX2luc3RhbGxfZGlyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbnN0YWxsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpbnN0YWxsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1113,10 +1092,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMgZ2V0IHB3ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgZ2V0IHB3ZApzZWQgLWkgInNAXmRlcGxveV9kaXIuKkBkZXBsb3lfZGlyPSR7ZGVwbG95X2Rpcn1AIiAuL29wdGlvbnMuY29uZgoK</text>
+        <text encoding="base64">IyMgZ2V0IHB3ZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
