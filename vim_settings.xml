@@ -22,6 +22,9 @@
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/interface/admin/carousellist.php" timestamp="1477909167546">
+        <mark key="'" line="42" column="42" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/activity/GroupSelectListActivity.java" timestamp="1474280710365">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -33,6 +36,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/logger.php" timestamp="1477909077344">
+        <mark key="'" line="172" column="51" />
       </file>
       <file name="/a.dummy" timestamp="1478859420264">
         <mark key="[" line="0" column="0" />
@@ -207,6 +213,9 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/opadmin/application/controllers/Video.php" timestamp="1477992297329">
+        <mark key="'" line="235" column="36" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4c92aa38-9943-4c50-98da-4df003ca4db4/console_1.sql" timestamp="1478503214263">
         <mark key="[" line="0" column="0" />
       </file>
@@ -367,6 +376,9 @@
         <mark key="^" line="7" column="50" />
         <mark key="." line="7" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/cache/redis/redisbase.php" timestamp="1478230437245">
+        <mark key="'" line="211" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/base/bin/db_bk.sh" timestamp="1478854008190">
         <mark key="[" line="41" column="32" />
         <mark key="]" line="41" column="32" />
@@ -430,6 +442,9 @@
         <mark key="^" line="72" column="25" />
         <mark key="." line="72" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/test-server/appgate/config/config.php" timestamp="1477969916478">
+        <mark key="'" line="127" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/com/easyvaas/elapp/live/LiveRoomManager.java" timestamp="1473498938968">
         <mark key="[" line="147" column="52" />
         <mark key="]" line="147" column="59" />
@@ -458,6 +473,9 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL.php" timestamp="1477994217077">
+        <mark key="'" line="39" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/android/oupai/yzb-app/src/com/ccvideo/wxapi/WXPayEntryActivity.java" timestamp="1473845928314">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
@@ -476,11 +494,14 @@
         <mark key="^" line="40" column="93" />
         <mark key="." line="40" column="93" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/config_server.sh" timestamp="1478859804183">
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="26" />
-        <mark key="^" line="22" column="4" />
-        <mark key="." line="22" column="26" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/config_server.sh" timestamp="1478861355172">
+        <mark key="[" line="29" column="50" />
+        <mark key="]" line="29" column="66" />
+        <mark key="." line="29" column="66" />
+        <mark key="^" line="29" column="66" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/utils/logger.php" timestamp="1477997856053">
+        <mark key="'" line="26" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/adapter/item/UserAdapterItem.java" timestamp="1473745549120">
         <mark key="[" line="85" column="0" />
@@ -528,6 +549,9 @@
         <mark key="]" line="4" column="62" />
         <mark key="^" line="4" column="62" />
         <mark key="." line="4" column="62" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/nginx.sh" timestamp="1478852744238">
+        <mark key="'" line="60" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/utils/GroupUtil.java" timestamp="1474179979649">
         <mark key="[" line="49" column="63" />
@@ -581,6 +605,9 @@
         <mark key="." line="29" column="61" />
         <mark key="^" line="29" column="61" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/service/thirdparty.php" timestamp="1478515013623">
+        <mark key="'" line="42" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/adapter/item/CashInCustomEndAdapter.java" timestamp="1473757127241">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -593,9 +620,11 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-code.sh" timestamp="1478858091210">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="7" column="16" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-code.sh" timestamp="1478860269256">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+        <mark key="." line="17" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EmojiKeyboard/build.gradle" timestamp="1474791686205">
         <mark key="[" line="9" column="0" />
@@ -614,6 +643,9 @@
         <mark key="]" line="231" column="78" />
         <mark key="^" line="231" column="60" />
         <mark key="." line="231" column="78" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/interface/sched/updatestate.php" timestamp="1478148302501">
+        <mark key="'" line="133" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/adapter/item/SelectFriendsAdapterItem.java" timestamp="1474263320154">
         <mark key="[" line="32" column="8" />
@@ -764,9 +796,10 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" timestamp="1478859547944">
-        <mark key="[" line="125" column="13" />
-        <mark key="]" line="125" column="13" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" timestamp="1478860453781">
+        <mark key="'" line="71" column="89" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="133" />
         <mark key="." line="125" column="13" />
         <mark key="^" line="125" column="54" />
       </file>
@@ -823,6 +856,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/php-fpm.conf.template" timestamp="1478860613167" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/res/layout/fragment_message.xml" timestamp="1473905465642">
         <mark key="[" line="29" column="26" />
         <mark key="]" line="29" column="26" />
@@ -834,6 +868,9 @@
         <mark key="]" line="5" column="42" />
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/php.ini.template" timestamp="1478861546841">
+        <mark key="'" line="857" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/utils/DialogUtil.java" timestamp="1474270806011">
         <mark key="[" line="191" column="0" />
@@ -858,6 +895,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/cache/redis/redisbase.php" timestamp="1477909105699">
+        <mark key="'" line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf" timestamp="1478856860488">
         <mark key="'" line="154" column="27" />
         <mark key="[" line="107" column="0" />
@@ -868,11 +908,11 @@
       <file name="/Dummy.txt" timestamp="1478512486874">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/options.conf.template" timestamp="1478859195412">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="11" column="18" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/options.conf.template" timestamp="1478861249031">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/activity/GroupNameChangedActivity.java" timestamp="1474257421305">
         <mark key="[" line="29" column="59" />
@@ -916,6 +956,9 @@
         <mark key="^" line="18" column="25" />
         <mark key="." line="18" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" timestamp="1478860372023">
+        <mark key="'" line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/options.conf.template.test" timestamp="1478859215374">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="38" />
@@ -934,10 +977,12 @@
         <mark key="^" line="521" column="86" />
         <mark key="." line="521" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup" timestamp="1478859478291">
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup" timestamp="1478860244246">
+        <mark key="'" line="23" column="45" />
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="68" column="18" />
+        <mark key="." line="68" column="18" />
+        <mark key="^" line="68" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/res/layout/activity_my_profit.xml" timestamp="1474187196752">
         <mark key="[" line="5" column="27" />
@@ -983,55 +1028,104 @@
       <jump line="9" column="35" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/php-fpm.conf" />
       <jump line="484" column="21" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/php.ini" />
       <jump line="124" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="23" column="45" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="2" column="13" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="54" column="29" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="57" column="76" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="58" column="72" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="59" column="78" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="60" column="78" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="61" column="86" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="62" column="86" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="64" column="62" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="65" column="78" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="68" column="62" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="71" column="89" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="23" column="44" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="25" column="10" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="6" column="1" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="27" column="15" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="42" column="18" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="43" column="18" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="46" column="10" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="62" column="18" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="63" column="18" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="67" column="10" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="85" column="14" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="94" column="14" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="95" column="16" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="98" column="14" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="99" column="15" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="107" column="16" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="108" column="15" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="115" column="14" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="116" column="16" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="119" column="14" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="120" column="16" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="123" column="14" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="124" column="16" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="128" column="12" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="1" column="13" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/nginx.conf.template" />
+      <jump line="861" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/php.ini.template" />
+      <jump line="44" column="56" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/php.ini.template" />
+      <jump line="738" column="34" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/php.ini.template" />
+      <jump line="858" column="36" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/php.ini.template" />
+      <jump line="881" column="46" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/php.ini.template" />
+      <jump line="857" column="36" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/php.ini.template" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDI+JjEgfCB0ZWUgLWEgJHtpbnN0YWxsX2xvZ19maWxlfQ==</text>
+        <text>php_ini_file</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDI+JjEgfCB0ZWUgLWEgJHtpbnN0YWxsX2xvZ19maWxlfQ==</text>
+        <text>php_ini_file</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>extensions\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW5zdGFsbF9sb2dfZmlsZT0iIgo=</text>
+        <text encoding="base64">ICBzZWQgLWkgInMvXC9lYXN5dmFhc1wvL1xcJHNfaW5zdGFsbF9yb290XC8vZyIgJHtwaHBfaW5pX2ZpbGV9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbnN0YWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMgSW5zdGFsbCBzb2Z0d2FyZQp5dW0gLXkgdXBkYXRlCnl1bSAteSBpbnN0YWxsIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMgc2V0IHRoZSBkZWZhdWx0IGluc3RhbGwgcGF0aCwgeW91IGNhbiBmcmVlbHkgc3BlY2lmeQpuZ2lueF9pbnN0YWxsX2Rpcj0vZWFzeXZhYXMvc2VydmljZS9uZ2lueApwaHBfZnBtX2luc3RhbGxfZGlyPS9lYXN5dmFhcy9zZXJ2aWNlL3BocC1mcG0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiMgc2V0IHRoZSBkZWZhdWx0IGluc3RhbGwgcGF0aCwgeW91IGNhbiBmcmVlbHkgc3BlY2lmeQpuZ2lueF9pbnN0YWxsX2Rpcj0vZWFzeXZhYXMvc2VydmljZS9uZ2lueApwaHBfZnBtX2luc3RhbGxfZGlyPS9lYXN5dmFhcy9zZXJ2aWNlL3BocC1mcG0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBzZXQgdGhlIGRlZmF1bHQgaW5zdGFsbCBwYXRoLCB5b3UgY2FuIGZyZWVseSBzcGVjaWZ5Cm5naW54X2luc3RhbGxfZGlyPS9lYXN5dmFhcy9zZXJ2aWNlL25naW54Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHVzaGQgJHtvbmVpbnN0YWNrX2Rpcn0vc3JjCiAgCiAgaWQgLXUgJHJ1bl91c2VyID4vZGV2L251bGwgMj4mMQogIFsgJD8gLW5lIDAgXSAmJiB1c2VyYWRkIC1NIC1zIC9zYmluL25vbG9naW4gJHJ1bl91c2VyCiAgCiAgdGFyIHh6ZiBwY3JlLSRwY3JlX3ZlcnNpb24udGFyLmd6CiAgdGFyIHh6ZiBuZ2lueC0kbmdpbnhfdmVyc2lvbi50YXIuZ3oKICB0YXIgeHpmIG9wZW5zc2wtJG9wZW5zc2xfdmVyc2lvbi50YXIuZ3oKICBwdXNoZCBuZ2lueC0kbmdpbnhfdmVyc2lvbgogICMgTW9kaWZ5IE5naW54IHZlcnNpb24KICAjc2VkIC1pICdzQCNkZWZpbmUgTkdJTlhfVkVSU0lPTi4qJEAjZGVmaW5lIE5HSU5YX1ZFUlNJT04gICAgICAiMS4yIkAnIHNyYy9jb3JlL25naW54LmgKICAjc2VkIC1pICdzQCNkZWZpbmUgTkdJTlhfVkVSLipOR0lOWF9WRVJTSU9OJEAjZGVmaW5lIE5HSU5YX1ZFUiAgICAgICAgICAiTGludXhleWUvIiBOR0lOWF9WRVJTSU9OQCcgc3JjL2NvcmUvbmdpbnguaAogICNzZWQgLWkgJ3NAU2VydmVyOiBuZ2lueEBTZXJ2ZXI6IGxpbnV4ZXllQCcgc3JjL2h0dHAvbmd4X2h0dHBfaGVhZGVyX2ZpbHRlcl9tb2R1bGUuYwogIAogICMgY2xvc2UgZGVidWcKICBzZWQgLWkgJ3NAQ0ZMQUdTPSIkQ0ZMQUdTIC1nIkAjQ0ZMQUdTPSIkQ0ZMQUdTIC1nIkAnIGF1dG8vY2MvZ2NjCiAgCiAgaWYgWyAiJGplX3RjX21hbGxvYyIgPT0gJzEnIF07IHRoZW4KICAgIG1hbGxvY19tb2R1bGU9Ii0td2l0aC1sZC1vcHQ9Jy1samVtYWxsb2MnIgogIGVsaWYgWyAiJGplX3RjX21hbGxvYyIgPT0gJzInIF07IHRoZW4KICAgIG1hbGxvY19tb2R1bGU9Jy0td2l0aC1nb29nbGVfcGVyZnRvb2xzX21vZHVsZScKICAgIG1rZGlyIC90bXAvdGNtYWxsb2MKICAgIGNob3duIC1SICR7cnVuX3VzZXJ9LiRydW5fdXNlciAvdG1wL3RjbWFsbG9jCiAgZmkKCiAgWyAhIC1kICIkbmdpbnhfaW5zdGFsbF9kaXIiIF0gJiYgbWtkaXIgLXAgJG5naW54X2luc3RhbGxfZGlyCiAgLi9jb25maWd1cmUgLS1wcmVmaXg9JG5naW54X2luc3RhbGxfZGlyIC0tdXNlcj0kcnVuX3VzZXIgLS1ncm91cD0kcnVuX3VzZXIgLS13aXRoLWh0dHBfc3R1Yl9zdGF0dXNfbW9kdWxlIC0td2l0aC1odHRwX3YyX21vZHVsZSAtLXdpdGgtaHR0cF9zc2xfbW9kdWxlIC0td2l0aC1pcHY2IC0td2l0aC1odHRwX2d6aXBfc3RhdGljX21vZHVsZSAtLXdpdGgtaHR0cF9yZWFsaXBfbW9kdWxlIC0td2l0aC1odHRwX2Zsdl9tb2R1bGUgLS13aXRoLW9wZW5zc2w9Li4vb3BlbnNzbC0kb3BlbnNzbF92ZXJzaW9uIC0td2l0aC1wY3JlPS4uL3BjcmUtJHBjcmVfdmVyc2lvbiAtLXdpdGgtcGNyZS1qaXQgJG1hbGxvY19tb2R1bGUKICBtYWtlIC1qICR7VEhSRUFEfSAmJiBtYWtlIGluc3RhbGwKICBpZiBbIC1lICIkbmdpbnhfaW5zdGFsbF9kaXIvY29uZi9uZ2lueC5jb25mIiBdOyB0aGVuCiAgICBwb3BkIAogICAgcm0gLXJmIG5naW54LSRuZ2lueF92ZXJzaW9uCiAgICBlY2hvICIke0NTVUNDRVNTfU5naW54IGluc3RhbGxlZCBzdWNjZXNzZnVsbHkhICR7Q0VORH0iCiAgZWxzZQogICAgcm0gLXJmICRuZ2lueF9pbnN0YWxsX2RpcgogICAgZWNobyAiJHtDRkFJTFVSRX1OZ2lueCBpbnN0YWxsIGZhaWxlZCwgUGxlYXNlIENvbnRhY3QgdGhlIGF1dGhvciEgJHtDRU5EfSIKICAgIGtpbGwgLTkgJCQKICBmaQoKICBbIC16ICJgZ3JlcCBeJ2V4cG9ydCBQQVRIPScgL2V0Yy9wcm9maWxlYCIgXSAmJiBlY2hvICJleHBvcnQgUEFUSD0kbmdpbnhfaW5zdGFsbF9kaXIvc2JpbjpcJFBBVEgiID4+IC9ldGMvcHJvZmlsZQogIFsgLW4gImBncmVwIF4nZXhwb3J0IFBBVEg9JyAvZXRjL3Byb2ZpbGVgIiAtYSAteiAiYGdyZXAgJG5naW54X2luc3RhbGxfZGlyIC9ldGMvcHJvZmlsZWAiIF0gJiYgc2VkIC1pICJzQF5leHBvcnQgUEFUSD1cKC4qXClAZXhwb3J0IFBBVEg9JG5naW54X2luc3RhbGxfZGlyL3NiaW46XDFAIiAvZXRjL3Byb2ZpbGUKICAuIC9ldGMvcHJvZmlsZQogIAogIFsgIiRPUyIgPT0gJ0NlbnRPUycgXSAmJiB7IC9iaW4vY3AgLi4vaW5pdC5kL05naW54LWluaXQtQ2VudE9TIC9ldGMvaW5pdC5kL25naW54OyBjaGtjb25maWcgLS1hZGQgbmdpbng7IGNoa2NvbmZpZyBuZ2lueCBvbjsgfQogIFtbICRPUyA9fiBeVWJ1bnR1JHxeRGViaWFuJCBdXSAmJiB7IC9iaW4vY3AgLi4vaW5pdC5kL05naW54LWluaXQtVWJ1bnR1IC9ldGMvaW5pdC5kL25naW54OyB1cGRhdGUtcmMuZCBuZ2lueCBkZWZhdWx0czsgfQoKICBzZWQgLWkgInNAL3Vzci9sb2NhbC9uZ2lueEAkbmdpbnhfaW5zdGFsbF9kaXJAZyIgL2V0Yy9pbml0LmQvbmdpbngKICAKICBtdiAkbmdpbnhfaW5zdGFsbF9kaXIvY29uZi9uZ2lueC5jb25meyxfYmt9CiAgaWYgW1sgJEFwYWNoZV92ZXJzaW9uID1+IF5bMS0yXSQgXV07IHRoZW4KICAgIC9iaW4vY3AgLi4vY29uZmlnL25naW54X2FwYWNoZS5jb25mICRuZ2lueF9pbnN0YWxsX2Rpci9jb25mL25naW54LmNvbmYKICBlbGlmIFtbICRUb21jYXRfdmVyc2lvbiA9fiBeWzEtMl0kIF1dICYmIFsgISAtZSAiJHBocF9pbnN0YWxsX2Rpci9iaW4vcGhwIiBdOyB0aGVuCiAgICAvYmluL2NwIC4uL2NvbmZpZy9uZ2lueF90b21jYXQuY29uZiAkbmdpbnhfaW5zdGFsbF9kaXIvY29uZi9uZ2lueC5jb25mCiAgZWxzZQogICAgL2Jpbi9jcCAuLi9jb25maWcvbmdpbnguY29uZiAkbmdpbnhfaW5zdGFsbF9kaXIvY29uZi9uZ2lueC5jb25mCiAgICBbICIkUEhQX3luIiA9PSAneScgXSAmJiBbIC16ICJgZ3JlcCAnL3BocC1mcG1fc3RhdHVzJyAkbmdpbnhfaW5zdGFsbF9kaXIvY29uZi9uZ2lueC5jb25mYCIgXSAmJiAgc2VkIC1pICJzQGluZGV4IGluZGV4Lmh0bWwgaW5kZXgucGhwO0BpbmRleCBpbmRleC5odG1sIGluZGV4LnBocDtcbiAgICBsb2NhdGlvbiB+IC9waHAtZnBtX3N0YXR1cyB7XG4gICAgICAgICNmYXN0Y2dpX3Bhc3MgcmVtb3RlX3BocF9pcDo5MDAwO1xuICAgICAgICBmYXN0Y2dpX3Bhc3MgdW5peDovZGV2L3NobS9waHAtY2dpLnNvY2s7XG4gICAgICAgIGZhc3RjZ2lfaW5kZXggaW5kZXgucGhwO1xuICAgICAgICBpbmNsdWRlIGZhc3RjZ2kuY29uZjtcbiAgICAgICAgYWxsb3cgMTI3LjAuMC4xO1xuICAgICAgICBkZW55IGFsbDtcbiAgICAgICAgfUAiICRuZ2lueF9pbnN0YWxsX2Rpci9jb25mL25naW54LmNvbmYKICBmaQogIGNhdCA+ICRuZ2lueF9pbnN0YWxsX2Rpci9jb25mL3Byb3h5LmNvbmYgPDwgRU9GCnByb3h5X2Nvbm5lY3RfdGltZW91dCAzMDBzOwpwcm94eV9zZW5kX3RpbWVvdXQgOTAwOwpwcm94eV9yZWFkX3RpbWVvdXQgOTAwOwpwcm94eV9idWZmZXJfc2l6ZSAzMms7CnByb3h5X2J1ZmZlcnMgNCA2NGs7CnByb3h5X2J1c3lfYnVmZmVyc19zaXplIDEyOGs7CnByb3h5X3JlZGlyZWN0IG9mZjsKcHJveHlfaGlkZV9oZWFkZXIgVmFyeTsKcHJveHlfc2V0X2hlYWRlciBBY2NlcHQtRW5jb2RpbmcgJyc7CnByb3h5X3NldF9oZWFkZXIgUmVmZXJlciBcJGh0dHBfcmVmZXJlcjsKcHJveHlfc2V0X2hlYWRlciBDb29raWUgXCRodHRwX2Nvb2tpZTsKcHJveHlfc2V0X2hlYWRlciBIb3N0IFwkaG9zdDsKcHJveHlfc2V0X2hlYWRlciBYLVJlYWwtSVAgXCRyZW1vdGVfYWRkcjsKcHJveHlfc2V0X2hlYWRlciBYLUZvcndhcmRlZC1Gb3IgXCRwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yOwpFT0YKICBzZWQgLWkgInNAL2RhdGEvd3d3cm9vdC9kZWZhdWx0QCR3d3dyb290X2Rpci9kZWZhdWx0QCIgJG5naW54X2luc3RhbGxfZGlyL2NvbmYvbmdpbnguY29uZgogIHNlZCAtaSAic0AvZGF0YS93d3dsb2dzQCR3d3dsb2dzX2RpckBnIiAkbmdpbnhfaW5zdGFsbF9kaXIvY29uZi9uZ2lueC5jb25mCiAgc2VkIC1pICJzQF51c2VyIHd3dyB3d3dAdXNlciAkcnVuX3VzZXIgJHJ1bl91c2VyQCIgJG5naW54X2luc3RhbGxfZGlyL2NvbmYvbmdpbnguY29uZgogIFsgIiRqZV90Y19tYWxsb2MiID09ICcyJyBdICYmIHNlZCAtaSAnc0BecGlkXCguKlwpQHBpZFwxXG5nb29nbGVfcGVyZnRvb2xzX3Byb2ZpbGVzIC90bXAvdGNtYWxsb2M7QCcgJG5naW54X2luc3RhbGxfZGlyL2NvbmYvbmdpbnguY29uZgogIAogICMgbG9ncm90YXRlIG5naW54IGxvZwogIGNhdCA+IC9ldGMvbG9ncm90YXRlLmQvbmdpbnggPDwgRU9GCiR3d3dsb2dzX2Rpci8qbmdpbngubG9nIHsKZGFpbHkKcm90YXRlIDUKbWlzc2luZ29rCmRhdGVleHQKY29tcHJlc3MKbm90aWZlbXB0eQpzaGFyZWRzY3JpcHRzCnBvc3Ryb3RhdGUKICAgIFsgLWUgL3Zhci9ydW4vbmdpbngucGlkIF0gJiYga2lsbCAtVVNSMSBcYGNhdCAvdmFyL3J1bi9uZ2lueC5waWRcYAplbmRzY3JpcHQKfQpFT0YKICBwb3BkCiAgbGRjb25maWcKICBzZXJ2aWNlIG5naW54IHN0YXJ0</text>
+      <register name="8" type="2">
+        <text encoding="base64">IyMgZ2V0IHB3ZAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHtDRU5EfSIKICBraWxsIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">IyMgZ2V0IHB3ZApzZWQgLWkgInNAXmRlcGxveV9kaXIuKkBkZXBsb3lfZGlyPSR7ZGVwbG95X2Rpcn1AIiAuL29wdGlvbnMuY29uZgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>extensions\/</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>extensions\/</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1039,6 +1133,10 @@
       <history-search>
         <entry>nginx.conf</entry>
         <entry>log</entry>
+        <entry>user</entry>
+        <entry>easyvaas</entry>
+        <entry>extensions</entry>
+        <entry>extensions\/</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
