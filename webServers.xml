@@ -17,9 +17,25 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="2e0fcdda-7141-41a6-b161-089a9d932d92" name="dev001" url="http://dev.yizhibo.tv/user/lichuan/">
+        <fileTransfer host="123.57.240.208" port="13202" rootFolder="/home/lichuan/code" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="13202" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="72f77b4c-f0f7-45cf-8976-32df5f45acf9" name="dev001-gw" url="http://dev.yizhibo.tv/user/lichuan/">
+        <fileTransfer host="123.57.240.208" port="13202" rootFolder="/zebra/gw/dev" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="13202" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABEMwWxy93qHjNXruk0PFSogrpQQYGYC2iSZjQ8Of/pISwxMZcKfr0v02//w9oS9D2dO88YdDT3PRHSBZcSG+oXiypnCqEqddCIwJOSx2CryXb1/Q1+Pb+BvFbupBtwixVzK3G5yKkFUMp/cJbTjBvbPILPkrHWeLT/l7yBpcwM2hmTa3PhtlNO+Riq/iIPfkSrqitae+7eTNaV4+AE8Kyy5djQVLsZdw0XDdC/mvihFvEXRcl3vVgYc3sUrR7ocfa08SwPpcU0nREve3ThfwfwArKywWmBkKSLMg6kKygpXMgaUML1/0m5O20nEmnhM7nvtfEETfXpGkH4bHpBwr/RvLWGdArCadYnLdviA3bOSnoDaCWyN8qJ5Fjw92zgX7ZKg==</data>
+    <data>AAACAKtjOwI8vU2RRvhBd1bUIuW0puEIBY7to/9+pCMe7fJS/C7XaR6NT43JXOxDDVOZ2MQQPvi+lzLccXOJGpTMtyUjOspi9U2lAS9Dfk4zBd2mBqnNsxnNghz5mFqsjaGztX0WiitaZgzXwcNmytVvvlzKZfECSXvbFHZ3Co08Q+FsElzCQE1sKaIwTIWdQO80eYWmx5qaP1eHsdD0grNVLeByhrC8Wx4rP8G2eDw1+4APfo7mTvsV8OXv/btJS1rTAHLRGdSJ43qeEmqh4BrbL1yxSaut6WcQvH2hi7qY+dL+nag7f3xQu0H3TCd6nEBcsGgJZZT+ayWvft7Wn3ZmNCrKG+jqChCCa/kTUn37rNGnS9gFtIiYJ3rXKgpy0LB+XD0tF0uHlxpvtMtwyrR/npo0GmxyB4Jp1WOp6ID1MYNmP0lB8UgkuT9Uu9o6ZwjareZbUahCl7jZ+FD5aMluCPUWJiMSfD9Zi4auGJWbG6cdW+h6mIDz9CGDjsQmUhI/LDlBHVd5lvaxJfxRA0BKgVZHB1u+7jD7+f1EsPRwytJuYj6zG/tqwPHq944R7uSHAXsFjJx6oW/GfGLjOwM1+R7b2DLsWr9U//uzuUAzr9m3sC3T0lNzAvwkCJUUcr1Sux78onOAodvmL44D32Wmo31FQ7gJI5Xdma8EAX0b/YSpk23wqtVzVJ5ykS8r479arg==</data>
   </component>
 </application>
