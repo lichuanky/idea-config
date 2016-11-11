@@ -40,7 +40,7 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/logger.php" timestamp="1477909077344">
         <mark key="'" line="172" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1478862161040">
+      <file name="/a.dummy" timestamp="1478863328122">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -482,11 +482,11 @@
         <mark key="^" line="40" column="93" />
         <mark key="." line="40" column="93" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/config_server.sh" timestamp="1478862527122">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="20" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/config_server.sh" timestamp="1478862996562">
+        <mark key="[" line="23" column="83" />
+        <mark key="]" line="23" column="93" />
+        <mark key="." line="23" column="93" />
+        <mark key="^" line="23" column="93" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/utils/logger.php" timestamp="1477997856053">
         <mark key="'" line="26" column="21" />
@@ -778,7 +778,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" timestamp="1478861980729">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" timestamp="1478863268274">
         <mark key="'" line="71" column="89" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="133" />
@@ -887,7 +887,7 @@
         <mark key="^" line="44" column="5" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/options.conf.template" timestamp="1478862499568">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/options.conf.template" timestamp="1478863272490">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="28" />
         <mark key="." line="11" column="28" />
@@ -1058,44 +1058,44 @@
       <jump line="857" column="36" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/config/php.ini.template" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwaHBfZnBtX2luc3RhbGxfZGlyCg==</text>
+      <register name="&quot;" type="4">
+        <text>redis</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>redis</text>
       </register>
       <register name="/" type="4">
         <text>extensions\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzZWQgLWkgInMvXC9lYXN5dmFhc1wvL1xcJHNfaW5zdGFsbF9yb290XC8vZyIgJHtwaHBfaW5pX2ZpbGV9Cg==</text>
+        <text encoding="base64">ICBzZWQgLWkgInM6ZXh0ZW5zaW9uLiovcmVkaXMuc286ZXh0ZW5zaW9uPSR7cGhwX2ZwbV9pbnN0YWxsX2Rpcn0vZXh0ZW5zaW9ucy9yZWRpcy5zbzpnIiAke3BocF9pbmlfZmlsZX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwaHBfZnBtX2luc3RhbGxfZGlyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzX2luc3RhbGxfcm9vdD1cXCRpbnN0YWxsX2Rpcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbnN0YWxsCg==</text>
+        <text encoding="base64">ICBwaHBfZnBtX2luc3RhbGxfZGlyCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBpbnN0YWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgZ2V0IHB3ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
