@@ -3,318 +3,155 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive_remote.sh" timestamp="1476702273453">
-        <mark key="[" line="46" column="13" />
-        <mark key="]" line="46" column="13" />
-        <mark key="." line="46" column="13" />
-        <mark key="^" line="46" column="13" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/base/bin/options.conf" timestamp="1478854603154" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/nginx.sh" timestamp="1478852744238">
+        <mark key="'" line="60" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/server/setup-mysql.sh" timestamp="1476773022493">
-        <mark key="[" line="33" column="11" />
-        <mark key="]" line="33" column="27" />
-        <mark key="." line="33" column="11" />
-        <mark key="^" line="31" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/.gitignore" timestamp="1476787131476">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-      </file>
-      <file name="/a.dummy" timestamp="1477480028076">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/deploy.sh" timestamp="1476847391931">
-        <mark key="'" line="31" column="3" />
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="17" column="1" />
-        <mark key="." line="17" column="1" />
-        <mark key="^" line="17" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/server/test.sh" timestamp="1476770116714">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="12" />
-        <mark key="." line="12" column="12" />
-        <mark key="^" line="12" column="12" />
-      </file>
-      <file name="$USER_HOME$/bin/oneinstack/setup.sh" timestamp="1476695389311">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/bin/oneinstack/start.sh" timestamp="1476695401957">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/archive.sh" timestamp="1476951426935">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="8" column="42" />
-        <mark key="." line="8" column="42" />
-        <mark key="^" line="8" column="43" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/archive.sh" timestamp="1477477306577">
-        <mark key="[" line="30" column="19" />
-        <mark key="]" line="30" column="31" />
-        <mark key="." line="30" column="31" />
-        <mark key="^" line="30" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/base/bin/start" timestamp="1476869277333">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/base/bin/dbConnect" timestamp="1478854386558">
         <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="1" />
+        <mark key="]" line="15" column="2" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/src/gw/appgate/config/config.php.template.test" timestamp="1476869468345">
-        <mark key="'" line="55" column="26" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/options.conf" timestamp="1478755340769">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-code.sh" timestamp="1477477318583">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="14" />
-        <mark key="." line="7" column="14" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/options.conf.template" timestamp="1478853781525" />
+      <file name="/a.dummy" timestamp="1478854645555">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/deploy/setup-code.sh" timestamp="1476951186174">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/archive_remote.sh" timestamp="1478755035113">
+        <mark key="'" line="54" column="3" />
+        <mark key="[" line="54" column="3" />
+        <mark key="]" line="54" column="3" />
+        <mark key="." line="54" column="3" />
+        <mark key="^" line="54" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/archive" timestamp="1478755221908">
+        <mark key="[" line="65" column="26" />
+        <mark key="]" line="65" column="26" />
+        <mark key="^" line="62" column="21" />
+        <mark key="." line="65" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/base/bin/restart" timestamp="1478854059967">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-code.sh" timestamp="1478853737104">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/base/bin/option.conf" timestamp="1478854261688">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/base/bin/db_bk.sh" timestamp="1478854008190">
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="41" column="32" />
+        <mark key="." line="41" column="32" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/base/bin/connectMysql" timestamp="1478853993397">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
+        <mark key="^" line="9" column="0" />
         <mark key="." line="11" column="0" />
-        <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/README.md" timestamp="1476951155650">
-        <mark key="[" line="0" column="62" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/base/bin/dbBackup" timestamp="1478854579856">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="1" />
       </file>
-      <file name="$USER_HOME$/bin/oneinstack/stop.sh" timestamp="1476695396761">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/options.conf" timestamp="1477480036464">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="7" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/easyvaas-pack/options.conf" timestamp="1476783166171">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="14" column="10" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/deploy/setup.sh" timestamp="1476951692762">
-        <mark key="'" line="38" column="25" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="65" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="16" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/deploy/setup-mysql.sh" timestamp="1476778474508">
-        <mark key="[" line="33" column="44" />
-        <mark key="]" line="33" column="44" />
-        <mark key="." line="33" column="44" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup.sh" timestamp="1477477527004">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="97" />
-        <mark key="^" line="11" column="97" />
-        <mark key="." line="11" column="97" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" timestamp="1477482831535">
-        <mark key="'" line="62" column="96" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="11" />
-        <mark key="." line="30" column="11" />
-        <mark key="^" line="30" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/deploy/options.conf" timestamp="1476778495111">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/options.conf" timestamp="1476958367970">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="15" />
-        <mark key="^" line="16" column="15" />
-        <mark key="." line="16" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/options.conf.easyvaas" timestamp="1477477078714">
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/src/gw/appgate/config/config.php.template.dist" timestamp="1477474707552">
-        <mark key="'" line="90" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/deploy/setup-config.sh" timestamp="1477035083366">
-        <mark key="'" line="70" column="27" />
-        <mark key="[" line="62" column="73" />
-        <mark key="]" line="62" column="80" />
-        <mark key="^" line="62" column="80" />
-        <mark key="." line="62" column="80" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/options.conf" timestamp="1477476640392">
-        <mark key="[" line="48" column="8" />
-        <mark key="]" line="48" column="8" />
-        <mark key="." line="48" column="8" />
-        <mark key="^" line="39" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/deploy/setup-mysql.sh" timestamp="1476850256481">
-        <mark key="[" line="31" column="28" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config-host.sh" timestamp="1477475858814">
-        <mark key="[" line="19" column="74" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/options.conf" timestamp="1476772970390">
-        <mark key="[" line="20" column="13" />
-        <mark key="]" line="20" column="19" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/test.sh" timestamp="1476781270335">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="18" column="15" />
-        <mark key="^" line="18" column="15" />
-        <mark key="." line="18" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/deploy/options.conf" timestamp="1476958373579">
-        <mark key="'" line="28" column="15" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive_mysql.sh" timestamp="1476770292358">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="27" column="4" />
-        <mark key="^" line="25" column="35" />
-        <mark key="." line="27" column="4" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/archive_mysql.sh" timestamp="1476783981669">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive.sh" timestamp="1476699708323">
-        <mark key="[" line="9" column="84" />
-        <mark key="]" line="9" column="90" />
-        <mark key="." line="9" column="90" />
-        <mark key="^" line="9" column="90" />
+      <file name="/fragment.java" timestamp="1478249325027">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/bin/oneinstack/setup.sh" />
-      <jump line="42" column="0" filename="$USER_HOME$/bin/oneinstack/setup.sh" />
-      <jump line="30" column="43" filename="$USER_HOME$/bin/oneinstack/setup.sh" />
-      <jump line="6" column="20" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive_release.sh" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/server/test.sh" />
-      <jump line="25" column="16" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive_mysql.sh" />
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive_mysql.sh" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/archive_mysql.sh" />
-      <jump line="38" column="42" filename="$USER_HOME$/bin/oneinstack/options.conf" />
-      <jump line="15" column="6" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/archive_remote.sh" />
-      <jump line="56" column="17" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/archive_remote.sh" />
-      <jump line="20" column="15" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/archive_remote.sh" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/deploy/setup-code.sh" />
-      <jump line="27" column="25" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/deploy/setup.sh" />
-      <jump line="325" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/src/gw/opadmin/application/config/config.php.template.dev" />
-      <jump line="26" column="3" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/deploy.sh" />
-      <jump line="31" column="59" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="31" column="15" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/deploy/options.conf" />
-      <jump line="67" column="27" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="55" column="26" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/deploy-scripts/archive/src/gw/appgate/config/config.php.template.test" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="24" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="25" column="13" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="26" column="83" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="27" column="60" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="28" column="59" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="29" column="56" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="30" column="62" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="31" column="62" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="32" column="70" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="33" column="70" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="41" column="73" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="42" column="67" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
-      <jump line="90" column="5" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/src/gw/appgate/config/config.php.template.dist" />
-      <jump line="61" column="96" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/setup-config.sh" />
+      <jump line="31" column="60" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/archive_remote.sh" />
+      <jump line="74" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/archive_remote.sh" />
+      <jump line="71" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/archive_remote.sh" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/archive_remote.sh" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/archive_remote.sh" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/archive_remote.sh" />
+      <jump line="54" column="3" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/archive_remote.sh" />
+      <jump line="15" column="1" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/nginx.sh" />
+      <jump line="62" column="64" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/nginx.sh" />
+      <jump line="64" column="57" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/nginx.sh" />
+      <jump line="65" column="441" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/nginx.sh" />
+      <jump line="83" column="81" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/nginx.sh" />
+      <jump line="84" column="66" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/nginx.sh" />
+      <jump line="85" column="77" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/nginx.sh" />
+      <jump line="86" column="127" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/nginx.sh" />
+      <jump line="39" column="35" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/nginx.sh" />
+      <jump line="58" column="29" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/nginx.sh" />
+      <jump line="60" column="64" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/nginx.sh" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/base/bin/option.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGlzdCA=</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">ZGlzdCA=</text>
-      </register>
-      <register name="/" type="4">
-        <text>base_host_url</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">I3NlZCAtaSAicy9cJGNvbmZpZ1snaW50ZXJmYWNlX3ByZWZpeCddLio7L1wkY29uZmlnWydpbnRlcmZhY2VfcHJlZml4J10gXC49IFwiZWFzeXZhYXNcL29wYWRtaW5cL1wiOy9nIiAke29wYWRtaW5fY29uZmlnX2ZpbGV9Cg==</text>
-      </register>
-      <register name="p" type="4">
-        <text />
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">cm0gCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXBsb2FkX3ZpZGVvCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IyMjIOS4igo=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
+      <register name="/" type="4">
+        <text>nginx.conf</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">aWYgW1sgLXogIiRkYl9ob3N0IiB8fCAteiAiJHVzZXJuYW1lIiB8fCAteiAiJHBhc3N3b3JkIiBdXTt0aGVuCiAgZWNobyAiUGxlYXNlIGNoZWNrIHlvdXIgb3B0aW9uLmNvbmYgZmlsZSwgZGJfaG9zdC91c2VybmFtZS9wYXNzd29yZCBzaG91bGQgbm90IGVtcHR5ISIKICBleGl0IDEKZmkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZGJfaG9zdD0KdXNlcm5hbWU9CnBhc3N3b3JkPQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LXUke3VzZXJuYW1lfSAtaCR7ZGJfaG9zdH0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VkIC1pICJzL1wkY29uZmlnXFsnY2hhdF91cmwnXF0uKjsvXCRjb25maWdbJ2NoYXRfdXJsJ10gPSBcIiR7ZXZfbXNnX2FwaV9iYXNlfVwvbG9naW5cL1wiOy9nIiAke3dlYnZpZXdfd2ViX2NvbmZpZ19maWxlfQo=</text>
+        <text encoding="base64">IyBIb3cgbWFueSBkYXlzIGJlZm9yZSB0aGUgYmFja3VwIGRpcmVjdG9yeSB3aWxsIGJlIHJlbW92ZWQKZXhwaXJlZF9kYXlzPTUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y3AgJHtvcGFkbWluX2RhdGFiYXNlX2ZpbGV9LnRlbXBsYXRlLmRpc3QgJHtvcGFkbWluX2RhdGFiYXNlX2ZpbGV9CmNwICR7b3BhZG1pbl95aXNoaXl1bl9maWxlfS50ZW1wbGF0ZS5kaXN0ICR7b3BhZG1pbl95aXNoaXl1bl9maWxlfQpjcCAke3dlYnZpZXdfY29uZmlnX2ZpbGV9LnRlbXBsYXRlLmRpc3QgJHt3ZWJ2aWV3X2NvbmZpZ19maWxlfQpjcCAke3dlYnZpZXdfd2ViX2NvbmZpZ19maWxlfS50ZW1wbGF0ZS5kaXN0ICR7d2Vidmlld193ZWJfY29uZmlnX2ZpbGV9CmNwICR7YXBwd2ViX3N0YXRpY19jb25maWdfZmlsZX1fb25saW5lLmRpc3QgJHthcHB3ZWJfc3RhdGljX2NvbmZpZ19maWxlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMjIENyZWF0ZSBjdXN0b20gY29uZmlndXJhdGlvbiBmaWxlCmVjaG8gIkNyZWF0ZSBjdXN0b20gY29uZmlnIGZpbGVzIC4uIgpjcCAke2FwcGdhdGVfY29uZmlnX2ZpbGV9LnRlbXBsYXRlLmRpc3QgJHthcHBnYXRlX2NvbmZpZ19maWxlfQpjcCAke29wYWRtaW5fY29uZmlnX2ZpbGV9LnRlbXBsYXRlLmRpc3QgJHtvcGFkbWluX2NvbmZpZ19maWxlfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiMjIENyZWF0ZSBjdXN0b20gY29uZmlndXJhdGlvbiBmaWxlCmVjaG8gIkNyZWF0ZSBjdXN0b20gY29uZmlnIGZpbGVzIC4uIgpjcCAke2FwcGdhdGVfY29uZmlnX2ZpbGV9LnRlbXBsYXRlLmRpc3QgJHthcHBnYXRlX2NvbmZpZ19maWxlfQpjcCAke29wYWRtaW5fY29uZmlnX2ZpbGV9LnRlbXBsYXRlLmRpc3QgJHtvcGFkbWluX2NvbmZpZ19maWxlfQpjcCAke29wYWRtaW5fZGF0YWJhc2VfZmlsZX0udGVtcGxhdGUuZGlzdCAke29wYWRtaW5fZGF0YWJhc2VfZmlsZX0KY3AgJHtvcGFkbWluX3lpc2hpeXVuX2ZpbGV9LnRlbXBsYXRlLmRpc3QgJHtvcGFkbWluX3lpc2hpeXVuX2ZpbGV9CmNwICR7d2Vidmlld19jb25maWdfZmlsZX0udGVtcGxhdGUuZGlzdCAke3dlYnZpZXdfY29uZmlnX2ZpbGV9CmNwICR7d2Vidmlld193ZWJfY29uZmlnX2ZpbGV9LnRlbXBsYXRlLmRpc3QgJHt3ZWJ2aWV3X3dlYl9jb25maWdfZmlsZX0KY3AgJHthcHB3ZWJfc3RhdGljX2NvbmZpZ19maWxlfV9vbmxpbmUuZGlzdCAke2FwcHdlYl9zdGF0aWNfY29uZmlnX2ZpbGV9CgojIyBDb25maWcgaG9zdCBhbmQgcmVxdWVzdCB1cmwKZWNobyAiQ29uZmlnIGhvc3QgLi4uIgojIyMgRm9yIGFwcGdhdGUKYmFzZV9ob3N0X3VybD0iaHR0cDpcL1wvJHtCQVNFX0hPU1R9IgphcHBnd191cmw9IiR7YmFzZV9ob3N0X3VybH1cL2Vhc3l2YWFzXC9ndyIKc2VkIC1pICJzL1wkUkVTT1VSQ0VfSFRUUF9CQVNFX1BBVEguKj0uKlwvcmVzb3VyY2UvXCRSRVNPVVJDRV9IVFRQX0JBU0VfUEFUSCA9IFwiJHtiYXNlX2hvc3RfdXJsfVwvcmVzb3VyY2UvZyIgJHthcHBnYXRlX2NvbmZpZ19maWxlfQpzZWQgLWkgInMvXCRQQVlfU0VSVklDRV9VUkwuKlwvZXBheS9cJFBBWV9TRVJWSUNFX1VSTCA9IFwiJHtiYXNlX2hvc3RfdXJsfVwvZXBheS9nIiAke2FwcGdhdGVfY29uZmlnX2ZpbGV9CnNlZCAtaSAicy9cJFZJREVPX1dFQl9VUkwuKlwvd2Vidmlldy9cJFZJREVPX1dFQl9VUkwgPSBcIiR7YmFzZV9ob3N0X3VybH1cL3dlYnZpZXcvZyIgJHthcHBnYXRlX2NvbmZpZ19maWxlfQpzZWQgLWkgInMvXCRQQVlfRkFRX1VSTC4qXC9lYXN5dmFhcy9cJFBBWV9GQVFfVVJMID0gXCIke2Jhc2VfaG9zdF91cmx9XC9lYXN5dmFhcy9nIiAke2FwcGdhdGVfY29uZmlnX2ZpbGV9CnNlZCAtaSAicy9cJENPTlRBQ1RfVVNfVVJMLipcL2Vhc3l2YWFzL1wkQ09OVEFDVF9VU19VUkwgPSBcIiR7YmFzZV9ob3N0X3VybH1cL2Vhc3l2YWFzL2ciICR7YXBwZ2F0ZV9jb25maWdfZmlsZX0Kc2VkIC1pICJzL1wkQVNTRVRfSU5GT19VUkwuKlwvZWFzeXZhYXMvXCRBU1NFVF9JTkZPX1VSTCA9IFwiJHtiYXNlX2hvc3RfdXJsfVwvZWFzeXZhYXMvZyIgJHthcHBnYXRlX2NvbmZpZ19maWxlfQpzZWQgLWkgInMvXCRGUkVFX1VTRVJfREVTQ19VUkwuKlwvZWFzeXZhYXMvXCRGUkVFX1VTRVJfREVTQ19VUkwgPSBcIiR7YmFzZV9ob3N0X3VybH1cL2Vhc3l2YWFzL2ciICR7YXBwZ2F0ZV9jb25maWdfZmlsZX0Kc2VkIC1pICJzL1wkRk9DVVNfV0VCX0NIQVRfVVJMLipcL2Vhc3l2YWFzL1wkRk9DVVNfV0VCX0NIQVRfVVJMID0gXCIke2Jhc2VfaG9zdF91cmx9XC9lYXN5dmFhcy9nIiAke2FwcGdhdGVfY29uZmlnX2ZpbGV9CiMjIyBGb3Igb3BhZG1pbgojc2VkIC1pICJzL1wkY29uZmlnWydiYXNlX3VybCddLio7L1wkY29uZmlnWydiYXNlX3VybCddIFwuPSBcImVhc3l2YWFzXC9vcGFkbWluXC9cIjsvZyIgJHtvcGFkbWluX2NvbmZpZ19maWxlfQojc2VkIC1pICJzL1wkY29uZmlnWydpbnRlcmZhY2VfcHJlZml4J10uKjsvXCRjb25maWdbJ2ludGVyZmFjZV9wcmVmaXgnXSBcLj0gXCJlYXN5dmFhc1wvb3BhZG1pblwvXCI7L2ciICR7b3BhZG1pbl9jb25maWdfZmlsZX0KIyMjIEZvciB3ZWJ2aWV3CiNzZWQgLWkgInMvXCRjb25maWdbJ2Jhc2VfdXJsJ10uKjsvXCRjb25maWdbJ2Jhc2VfdXJsJ10gXC49IFwiZWFzeXZhYXNcL29wYWRtaW5cL1wiOy9nIiAke3dlYnZpZXdfY29uZmlnX2ZpbGV9CnNlZCAtaSAicy9cJGNvbmZpZ1xbJ2FwcGd3X3ZpZGVvJ1xdLio7L1wkY29uZmlnWydhcHBnd192aWRlbyddID0gXCIke2FwcGd3X3VybH1cL3ZpZGVvXC9cIjsvZyIgJHt3ZWJ2aWV3X3dlYl9jb25maWdfZmlsZX0Kc2VkIC1pICJzL1wkY29uZmlnXFsnYXBwZ3dfc2VydmljZSdcXS4qOy9cJGNvbmZpZ1snYXBwZ3dfc2VydmljZSddID0gXCIke2Jhc2VfaG9zdF91cmx9XC9lYXN5dmFhc1wvc2V2aWNlXC9zZXJ2aWNlXC9cIjsvZyIgJHt3ZWJ2aWV3X3dlYl9jb25maWdfZmlsZX0Kc2VkIC1pICJzL1wkY29uZmlnXFsnZG93bmxvYWRfdXJsJ1xdLio7L1wkY29uZmlnWydjaGF0X3VybCddID0gXCIke2Jhc2VfaG9zdF91cmx9XC9cIjsvZyIgJHt3ZWJ2aWV3X3dlYl9jb25maWdfZmlsZX0K</text>
+        <text encoding="base64">CmRiX2hvc3Q9CnVzZXJuYW1lPQpwYXNzd29yZD0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VkIC1pICJzL1wkY29uZmlnXFsnc2Vzc19zYXZlX3BhdGgnXF0uKjsvXCRjb25maWdbJ3Nlc3Nfc2F2ZV9wYXRoJ10gPSAnMTI3LjAuMC4xOjYzNzknOy9nIiAke3dlYnZpZXdfY29uZmlnX2ZpbGV9Cg==</text>
+        <text encoding="base64">LiAuL29wdGlvbnMuY29uZgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>base_host_url</last-search>
+      <last-search>nginx.conf</last-search>
       <last-offset />
-      <last-pattern>base_host_url</last-pattern>
+      <last-pattern>nginx.conf</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cd</entry>
-        <entry>base_host_url</entry>
+        <entry>nginx.conf</entry>
       </history-search>
       <history-cmd>
-        <entry>tabp</entry>
-        <entry>77</entry>
-        <entry>set hls</entry>
+        <entry>20</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -322,73 +159,19 @@
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed H</text>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Y</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

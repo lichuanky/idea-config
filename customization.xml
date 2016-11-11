@@ -1,0 +1,11 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="com.developerphil.adbidea.action.AdbIdeaQuickList" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Android.MainToolBarActionGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="com.developerphil.adbidea.action.AdbIdeaQuickList" icon="$USER_HOME$/Downloads/android.png" />
+  </component>
+</application>
