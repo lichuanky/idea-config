@@ -18,24 +18,24 @@
         </fileTransfer>
       </webServer>
       <webServer id="2e0fcdda-7141-41a6-b161-089a9d932d92" name="dev001" url="http://dev.yizhibo.tv/user/lichuan/">
-        <fileTransfer host="123.57.240.208" port="13202" rootFolder="/home/lichuan/code" accessType="SFTP">
+        <fileTransfer host="123.57.240.208" port="42701" rootFolder="/home/lichuan/code" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="13202" />
+          <option name="port" value="42701" />
         </fileTransfer>
       </webServer>
       <webServer id="72f77b4c-f0f7-45cf-8976-32df5f45acf9" name="dev001-gw" url="http://dev.yizhibo.tv/user/lichuan/">
-        <fileTransfer host="123.57.240.208" port="13202" rootFolder="/zebra/gw/dev" accessType="SFTP">
+        <fileTransfer host="123.57.240.208" port="42701" rootFolder="/zebra/gw/dev" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="13202" />
+          <option name="port" value="42701" />
         </fileTransfer>
       </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACADuryef7spDwqozxcAzjHIDbimxhObxQjChr4W8rz7TaxAXyDtdDhn/WDwWQZNuOacQ8/kNekok7g/BjrdEqPcSfIVc52JPn3Qe1WBWPip6zqaRGXaqFXcB6niXIJP/qBvKQidgL6h1FhQtAyVRQssDPHl2cVdH3UWNKusdSYGibG+eMH7tutlGFahKIVcOQ/1tAGdwgMgj7xB+r4rx73iFczjFOLYhzSZEa2a6vUYNQ0JlgiVVf/xbHOlXUZMBpab4EIBu8SBPNdux2FHSzMW6eJFS7VzSRdRdBehzmIVGoGX3QZwemOlZx+4jA2Kc78iwcSmUFGcWxdrD1mwe3d+Zax7anREKG8jNIokDPvMiOIsvvHFZR8wkWeahy0zqzI/VYyWgxz4kKAKTgDNVazxw2yzssRFkBK0PRzljj0TubLV9cGkQqI6OcjCA8MrHYL/m3kIGSS7pWvBMiUK0fwjQypi0eSHsQ8Rk5Zr4VhRucR9hgki7WQA479ED6Hw8NaDOIAdS+KujhVntE6d2VZNktdsnaI+SQtbvzBRQTkoPoI7uAUzFzjcAPHO+M1+RCn8CE1z0KxpvaQAoT3DFageLr8ypyGQjsI3IU8cxrcP5P/+0HoNE47WFQ+T/qdJ2LDZCQu0k+E41iDJyDSBk7m3Jkaj9xrXmJrPbsnE2tZOxkNo/hhsFAZxyORs7A1c2/0g==</data>
+    <data>AAACAGzSznClhr5myQUaTaKCeA105/DSoyN8+1kpimbGgoLOKJwZRo2Qst9KQgqfG9oeCKep+kXZMpVWFbvtZJwsSmijYrqLxVk2QCXsjfaNG8ukAHBT3EFJv0Wj0zqWo34ge3QPy6+29z5KvUt05lXVWTDVLwdWquSiqH34BPaEwL26VNNNlkgBMLamPdl4zyIb4bzYfgjB9dZIgwa0wMoWPvVT+HyXLVFiYqrXYE4PIWeaFAqxF3hNAFuEMjRe72SuZTIxPm6em8UQ74MoFvn/iyPWzHtvgrq/Pwf28EYTuj5KaPvqB8GTFvfF7+aJjfStyE8i1/m/nTs8U+GJhta/9MwfnuVCKhwokNrFi9O2idu/LcMVpWpbnkr3Uvlgy3KmBqHIHjgawZ0bY4yI5ALc6RRacAx8qWTYqpuZQ0/bGES2UPE102QPEovO9bvASGP7D/YPJDxL10r6TUdv/iKowpj8ScRDyPbOyASoNJyRhYrjMQD9LfTJptOvgervWfEg8xcpCJ2LpeirgQ9RJFU53JB5UiKPWuydLsi9E3gyKlGfZMLZaUqcetInuChb3OBigUv4JsOSgeidwxOQDy+Y6WujCmdwHr9kx3+vQkWfoYnexSnZUSzZ0HHc5gDDQTNhLGZW3ZOeRqiSOhC6c4ZzvR4jf9HdNjyab4tfpy+QSZfEkjKAsDQhQPMjm1iAFJsRUA==</data>
   </component>
 </application>
