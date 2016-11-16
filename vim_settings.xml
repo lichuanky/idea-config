@@ -39,7 +39,7 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/logger.php" timestamp="1477909077344">
         <mark key="'" line="172" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1479284948095">
+      <file name="/a.dummy" timestamp="1479287725480">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -709,7 +709,7 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/common/device.php" timestamp="1479283493561">
         <mark key="'" line="51" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/service/video.php" timestamp="1479286626273">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/service/video.php" timestamp="1479287723548">
         <mark key="[" line="394" column="21" />
         <mark key="]" line="395" column="8" />
         <mark key="." line="395" column="8" />
@@ -992,12 +992,13 @@
         <mark key="^" line="29" column="5" />
         <mark key="." line="29" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/callcancel.php" timestamp="1479287536673">
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/db/mysql/t_video.php" timestamp="1479287837127" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/callcancel.php" timestamp="1479287882355">
         <mark key="'" line="14" column="7" />
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-        <mark key="^" line="14" column="7" />
+        <mark key="[" line="14" column="36" />
+        <mark key="]" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+        <mark key="^" line="14" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/res/layout/activity_my_profit.xml" timestamp="1474187196752">
         <mark key="[" line="5" column="27" />
@@ -1110,10 +1111,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ownername</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>ownername</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>ownername</text>
