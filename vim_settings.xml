@@ -421,7 +421,7 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="42" />
       </file>
-      <file name="/dummy.sql" timestamp="1479268064250">
+      <file name="/dummy.sql" timestamp="1479280046493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -902,7 +902,7 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4c92aa38-9943-4c50-98da-4df003ca4db4/console.sql" timestamp="1479268103489">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4c92aa38-9943-4c50-98da-4df003ca4db4/console.sql" timestamp="1479280064533">
         <mark key="[" line="0" column="69" />
         <mark key="]" line="0" column="69" />
         <mark key="." line="0" column="69" />
@@ -1031,10 +1031,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>str</text>
+        <text>HM NOTE 1S</text>
       </register>
       <register name="-" type="4">
-        <text>str</text>
+        <text>HM NOTE 1S</text>
       </register>
       <register name="/" type="4">
         <text>HM</text>
