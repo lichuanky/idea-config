@@ -39,7 +39,7 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/logger.php" timestamp="1477909077344">
         <mark key="'" line="172" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1479287725480">
+      <file name="/a.dummy" timestamp="1479357885315">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -107,6 +107,10 @@
         <mark key="]" line="343" column="39" />
         <mark key="." line="343" column="39" />
         <mark key="^" line="343" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/livepay.php" timestamp="1479357716418">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="38" column="60" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/SPL.php" timestamp="1477994217077">
         <mark key="'" line="39" column="6" />
@@ -822,9 +826,9 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/callend.php" timestamp="1479287545264">
-        <mark key="[" line="47" column="1" />
-        <mark key="]" line="47" column="1" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/callend.php" timestamp="1479357036449">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="92" />
         <mark key="." line="47" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/adapter/item/HomeTopicAdapterItem.java" timestamp="1473663540856">
@@ -914,7 +918,7 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="/dummy.sql" timestamp="1479294984076">
+      <file name="/dummy.sql" timestamp="1479357037278">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -992,13 +996,12 @@
         <mark key="^" line="29" column="5" />
         <mark key="." line="29" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/db/mysql/t_video.php" timestamp="1479287837127" />
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/callcancel.php" timestamp="1479287882355">
-        <mark key="'" line="14" column="7" />
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="14" column="36" />
-        <mark key="." line="14" column="36" />
-        <mark key="^" line="14" column="36" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/db/mysql/t_video.php" timestamp="1479356647148" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/callcancel.php" timestamp="1479357921127">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="33" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/res/layout/activity_my_profit.xml" timestamp="1474187196752">
         <mark key="[" line="5" column="27" />
@@ -1108,6 +1111,7 @@
       <jump line="30" column="9" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/callcancel.php" />
       <jump line="33" column="14" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/callcancel.php" />
       <jump line="14" column="7" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/callcancel.php" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/callcancel.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1120,34 +1124,34 @@
         <text>ownername</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+bG9nZ2VyLT5pbmZvKCdkZXZpY2UgbW9kZWw6ICcuJGRldmljZV9tb2RlbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdmlkZW9JbmZvID0gJHZzLT5nZXRWaWRlb0Jhc2ljSW5mbygkdGhpcy0+ZGF0YS0+dmlkKTsKICAgICAgICBpZighJHZpZGVvSW5mbyl7CiAgICAgICAgICAgIEFwcFJhaXNlRXhjZXB0aW9uKEFwcEVycm9yOjpFX1ZJREVPX05PVF9FWElTVFMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygnZGV2aWNlIG1vZGVsOiAnLiRkZXZpY2VfbW9kZWwpOwo=</text>
+        <text encoding="base64">ICAgICJ0eXBlIiA9PiBhcnJheShmYWxzZSwgbnVsbCkvLygxOuS4u+aSrSAy77ya6L6F5pKtKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmxvZ2dlci0+aW5mbygiT3duZXIgbm90IGluIGxpdmluZyAuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdXMgPSBTZXJ2aWNlRmFjdG9yeTo6Z2V0VXNlclNlcnZpY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtWyd2ZXInXSA9ICR0aGlzLT5kYXRhLT52ZXJzaW9uOwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtWydsZyddID0gJGNvbm5lY3RVc2VySW5mb1snbG9nb3VybCddOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtWyduayddID0gJGNvbm5lY3RVc2VySW5mb1snbmlja25hbWUnXTsK</text>
+        <text encoding="base64">ICAgICAgICAkdmlkZW9JbmZvID0gJHZzLT5nZXRWaWRlb0Jhc2ljSW5mbygkdGhpcy0+ZGF0YS0+dmlkKTsKICAgICAgICBpZigkdmlkZW9JbmZvICYmICR2aWRlb0luZm9bJ2xpdmluZyddID09IExpdmVTdGF0ZTo6TElWSU5HKSB7CiAgICAgICAgICAgIC8v5LiL5Y+R6L+e6bqm5Y+W5raI6YCa55+lCiAgICAgICAgICAgICRwYXJhbVsnc3QnXSA9IDI7CiAgICAgICAgICAgICRjcy0+cHVibGlzaFZpZGVvQ2FsbE1lc3NhZ2VUb0NoYXRTZXJ2ZXIoJHRoaXMtPmRhdGEtPnZpZCwgJHBhcmFtLCAkY29ubmVjdFVzZXJJbmZvWyduYW1lJ10pOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwUmFpc2VFeGNlcHRpb24oQXBwRXJyb3I6OkVfVkNBTExfT1dORVJfQ0FMTElORywgIiIsIEVycm9yU3RyOjpFX1ZDQUxMX09XTkVSX0NBTExJTkcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXBwUmFpc2VFeGNlcHRpb24oQXBwRXJyb3I6OkVfVklERU9fTk9UX0VYSVNUUyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL+S4u+aSreaYr+WQpuW3sue7j+WcqOmAmuivneS4rQogICAgICAgICRpbkNhbGwgPSAkdnMtPmluQ2FsbCgkdmlkZW9Pd25lckluZm9bJ2lkJ10sICRsaXZlSW5mb1swXVsndmlkJ10pOwogICAgICAgIGlmICgkaW5DYWxsKSB7CiAgICAgICAgICAgIC8v6L+U5Zue5YC85Li6dHJ1ZeihqOekuuWcqOi/num6puS4rQo=</text>
+        <text encoding="base64">ICAgICAgICAvL+S4i+WPkei/num6puWPlua2iOmAmuefpQogICAgICAgICRwYXJhbVsnc3QnXSA9IDI7CiAgICAgICAgJGNzLT5wdWJsaXNoVmlkZW9DYWxsTWVzc2FnZVRvQ2hhdFNlcnZlcigkdGhpcy0+ZGF0YS0+dmlkLCAkcGFyYW0sICRjb25uZWN0VXNlckluZm9bJ25hbWUnXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL+S4uwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">5pKt5piv5ZCm5bey57uP5Zyo6YCa6K+d5LitCiAgICAgICAgJGluQ2FsbCA9ICR2cy0+aW5DYWxsKCR2aWRlb093bmVySW5mb1snaWQnXSwgJGxpdmVJbmZvWzBdWyd2aWQnXSk7CiAgICAgICAgaWYgKCRpbkNhbGwpIHsKICAgICAgICAgICAgLy/ov5Tlm57lgLzkuLp0cnVl6KGo56S65Zyo6L+e6bqm5LitCiAgICAgICAgICAgIEFwcFJhaXNlRXhjZXB0aW9uKEFwcEVycm9yOjpFX1ZDQUxMX09XTkVSX0NBTExJTkcsICIiLCBFcnJvclN0cjo6RV9WQ0FMTF9PV05FUl9DQUxMSU5HKTsKICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
