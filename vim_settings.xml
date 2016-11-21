@@ -719,6 +719,9 @@
         <mark key="." line="395" column="8" />
         <mark key="^" line="395" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/start.php" timestamp="1479696014631">
+        <mark key="'" line="59" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/extras/EasyChat/src/main/java/com/easyvaas/common/chat/ChatHXSDKModel.java" timestamp="1472455592864">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -996,7 +999,6 @@
         <mark key="^" line="29" column="5" />
         <mark key="." line="29" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/db/mysql/t_video.php" timestamp="1479356647148" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/callcancel.php" timestamp="1479357921127">
         <mark key="[" line="15" column="33" />
         <mark key="]" line="15" column="33" />
@@ -1112,6 +1114,7 @@
       <jump line="33" column="14" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/callcancel.php" />
       <jump line="14" column="7" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/callcancel.php" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/callcancel.php" />
+      <jump line="59" column="34" filename="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/netcall/video/start.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
