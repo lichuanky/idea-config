@@ -409,7 +409,7 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/dev/netcall/video/start.php" timestamp="1479267665585">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
-        <mark key="^" line="59" column="55" />
+        <mark key="^" line="60" column="55" />
         <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/lib/easyvaas_lib/EVLiveBase/gradle.properties" timestamp="1477470542180">
@@ -509,12 +509,6 @@
         <mark key="]" line="40" column="93" />
         <mark key="^" line="40" column="93" />
         <mark key="." line="40" column="93" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/dev/service/comment.php" timestamp="1479266975067">
-        <mark key="[" line="373" column="49" />
-        <mark key="]" line="373" column="49" />
-        <mark key="." line="373" column="49" />
-        <mark key="^" line="371" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/deploy-scripts/archive/deploy/include/config_server.sh" timestamp="1478862996562">
         <mark key="[" line="23" column="83" />
@@ -635,12 +629,6 @@
         <mark key="]" line="41" column="0" />
         <mark key="^" line="18" column="38" />
         <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/dev/service/device.php" timestamp="1479268414201">
-        <mark key="[" line="98" column="8" />
-        <mark key="]" line="103" column="54" />
-        <mark key="." line="103" column="54" />
-        <mark key="^" line="103" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/build.gradle" timestamp="1476174290251">
         <mark key="[" line="18" column="60" />
