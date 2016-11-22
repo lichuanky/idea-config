@@ -39,7 +39,7 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/hooview/appgate/common/logger.php" timestamp="1477909077344">
         <mark key="'" line="172" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1479799700887">
+      <file name="/a.dummy" timestamp="1479809404270">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -229,6 +229,8 @@
       <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/opadmin/application/controllers/Video.php" timestamp="1479726872743">
         <mark key="'" line="297" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/db/MysqliDb.php" timestamp="1479809355366" />
+      <file name="$USER_HOME$/workspace/yzb/easyvaas/leopard/appgate/model/video.php" timestamp="1479809417767" />
       <file name="$USER_HOME$/workspace/yzb/easyvaas/android/elapp/src/main/java/com/easyvaas/elapp/pay/AlipayHelper.java" timestamp="1473840891796">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -914,7 +916,7 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="11" />
       </file>
-      <file name="/dummy.sql" timestamp="1479808570674">
+      <file name="/dummy.sql" timestamp="1479809313167">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
